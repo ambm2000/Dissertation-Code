@@ -1,0 +1,82 @@
+cluster,platform_type,platform_name,count
+0,Dating,Hinge,1
+0,InstantMessaging,Facebook Messenger,1
+0,InstantMessaging,Snapchat,1
+0,SocialMedia,X,19
+0,SocialMedia,Instagram,5
+0,SocialMedia,TikTok,3
+0,SocialMedia,Facebook,2
+0,SocialMedia,Pinterest,2
+0,SocialMedia,Discord,1
+0,SocialMedia,Meta,1
+0,SocialMedia,YouTube,1
+1,Dating,Grindr,3
+1,Dating,Bumble,2
+1,Dating,Hinge,2
+1,Dating,Tinder,2
+1,Dating,Badoo,1
+1,Gaming,Fortnite,6
+1,Gaming,Call of Duty HQ,5
+1,Gaming,Minecraft,5
+1,Gaming,EA Sports FC 24,3
+1,InstantMessaging,Google Messages,3
+1,InstantMessaging,Snapchat,3
+1,InstantMessaging,Telegram,1
+1,InstantMessaging,WhatsApp,1
+1,SocialMedia,TikTok,5
+1,SocialMedia,Pinterest,4
+1,SocialMedia,Quora,4
+1,SocialMedia,Discord,3
+1,SocialMedia,LinkedIn,3
+1,SocialMedia,Reddit,3
+1,SocialMedia,X,2
+1,SocialMedia,YouTube,2
+1,SocialMedia,Facebook,1
+1,SocialMedia,Instagram,1
+1,SocialMedia,Meta,1
+2,Dating,Hinge,5
+2,Dating,Badoo,4
+2,Dating,Bumble,3
+2,Dating,Grindr,1
+2,Gaming,Call of Duty HQ,3
+2,Gaming,Minecraft,3
+2,Gaming,EA Sports FC 24,1
+2,InstantMessaging,Facebook Messenger,5
+2,InstantMessaging,Snapchat,1
+2,InstantMessaging,WhatsApp,1
+2,SocialMedia,Discord,10
+2,SocialMedia,Instagram,10
+2,SocialMedia,Facebook,9
+2,SocialMedia,Meta,8
+2,SocialMedia,LinkedIn,4
+2,SocialMedia,Reddit,4
+2,SocialMedia,TikTok,1
+3,Dating,Badoo,12
+3,Dating,Bumble,12
+3,Dating,Grindr,1
+3,Gaming,Fortnite,1
+3,Gaming,Minecraft,1
+3,InstantMessaging,Snapchat,16
+3,InstantMessaging,Telegram,1
+3,SocialMedia,YouTube,22
+3,SocialMedia,Meta,18
+3,SocialMedia,TikTok,8
+3,SocialMedia,Instagram,7
+3,SocialMedia,LinkedIn,7
+3,SocialMedia,Reddit,7
+3,SocialMedia,Discord,6
+3,SocialMedia,Facebook,3
+3,SocialMedia,Pinterest,3
+3,SocialMedia,Quora,2
+3,SocialMedia,X,1
+4,Dating,Tinder,12
+4,Dating,Grindr,11
+4,Dating,Bumble,5
+4,Dating,Hinge,3
+4,Dating,Badoo,1
+4,InstantMessaging,WhatsApp,9
+4,InstantMessaging,Snapchat,5
+4,InstantMessaging,Facebook Messenger,2
+4,SocialMedia,Discord,4
+4,SocialMedia,LinkedIn,1
+4,SocialMedia,TikTok,1

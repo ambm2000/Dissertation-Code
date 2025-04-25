@@ -1,0 +1,6 @@
+cluster,label,avg_sentiment,top_harms,top_platforms
+0,Crisis Support & Suicide,-0.134,"physical (28), psychological (14), sexual (5)","X (19), Instagram (5), TikTok (3)"
+1,Legal & Account Terms,0.757,"economic (42), physical (40), sexual (22)","Fortnite (6), Call of Duty HQ (5), Minecraft (5)"
+2,Abuse Reporting & Safety,-0.453,"physical (45), identity_based (31), sexual (30)","Instagram (10), Discord (10), Facebook (9)"
+3,Content Moderation Guidelines,-0.552,"physical (97), sexual (67), identity_based (46)","YouTube (22), Meta (18), Snapchat (16)"
+4,Community Safety & Consent,0.513,"physical (34), sexual (22), economic (17)","Tinder (12), Grindr (11), WhatsApp (9)"

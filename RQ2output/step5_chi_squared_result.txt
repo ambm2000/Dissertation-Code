@@ -1,0 +1,3 @@
+Chi-squared test statistic: 39.2214
+Degrees of freedom: 18
+P-value: 0.002661

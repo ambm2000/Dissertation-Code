@@ -1,0 +1,8 @@
+,economic,identity_based,physical,privacy,psychological,reputational,sexual
+economic,0,10,15,4,3,0,16
+identity_based,10,0,20,2,6,0,10
+physical,15,20,0,2,11,0,24
+privacy,4,2,2,0,2,0,1
+psychological,3,6,11,2,0,0,4
+reputational,0,0,0,0,0,0,0
+sexual,16,10,24,1,4,0,0

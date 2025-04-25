@@ -1,0 +1,531 @@
+category,platform,filename,topic,probability
+Gaming,Call of Duty HQ,COD_black_ops_editions.txt,4,1.0
+Gaming,Call of Duty HQ,COD_Reporting_a_Player_in_Call_of_Duty_Modern_Warfare_III.txt,4,1.0
+Gaming,Call of Duty HQ,COD_appeal_a_ban.txt,4,0.8160717249606751
+Gaming,Call of Duty HQ,COD_Voice_Chat_Moderation_FAQ.txt,4,1.0
+Gaming,Call of Duty HQ,COD_CODE_OF_CONDUCT.txt,4,1.0
+Gaming,Call of Duty HQ,COD_security_and_enforcement_policy.txt,4,0.956720862113707
+Gaming,Call of Duty HQ,COD_mobile_security_and_enforcement_policy.txt,4,0.5910123033371233
+Gaming,Call of Duty HQ,COD_anti-toxicity_report.txt,4,1.0
+Gaming,Call of Duty HQ,COD_software_license_and_service_agreement.txt,0,1.0
+Gaming,Call of Duty HQ,COD_Privacy_Policy.txt,4,0.7314441734312022
+Gaming,Call of Duty HQ,COD_reporting_guide_Call_of_Duty_Warzone_mobile.txt,4,1.0
+Gaming,Call of Duty HQ,COD_Terms_of_Use.txt,0,1.0
+Gaming,EA Sports FC 24,EA_How_EA_handles_reports_of_harassment_and_illegal_content.txt,-1,0.0
+Gaming,EA Sports FC 24,EA_Content_Moderation_and_Enforcement.txt,4,1.0
+Gaming,EA Sports FC 24,EA_Report_cheating_harassment_and_illegal_content.txt,4,1.0
+Gaming,EA Sports FC 24,EA_User_agreement.txt,0,1.0
+Gaming,EA Sports FC 24,EA_positive_play_community_guidelines.txt,4,1.0
+Gaming,EA Sports FC 24,EA_locks_bans_and_suspensions.txt,16,1.0
+Gaming,Minecraft,Minecraft_banned_accounts.txt,16,1.0
+Gaming,Minecraft,Minecraft_family_account.txt,4,1.0
+Gaming,Minecraft,Minecraft_resources_for_parents.txt,4,0.8242864373011136
+Gaming,Minecraft,Minecraft_end_user_agreement.txt,0,0.952401648547889
+Gaming,Minecraft,Minecraft_community_guidelines.txt,4,1.0
+Gaming,Minecraft,Minecraft_report_a_server.txt,4,1.0
+Gaming,Minecraft,Minecraft_Guidelines_for_Reporting_Inappropriate_Player_Behavior.txt,1,1.0
+Gaming,Minecraft,Minecraft_terms_of_service.txt,0,1.0
+Gaming,Minecraft,Minecraft_realms_safety.txt,4,1.0
+Gaming,Minecraft,Minecraft_report_a_concern.txt,4,1.0
+Gaming,Minecraft,Minecraft_usage_guidelines.txt,4,1.0
+Gaming,Minecraft,Minecraft_java_reporting_guide.txt,1,1.0
+Gaming,Minecraft,Minecraft_commitment_to_player_safety.txt,4,1.0
+Gaming,Minecraft,Minecraft_Xbox_community_standards.txt,4,1.0
+Gaming,Fortnite,Fortnite_End_User_License_Agreement.txt,0,1.0
+Gaming,Fortnite,Fortnite_Parental_Controls.txt,4,1.0
+Gaming,Fortnite,Fortnite_Content_Guidelines.txt,4,1.0
+Gaming,Fortnite,Fortnite_Unreal_Editor_for_Fortnite_Supplemental_Terms_to_the_EULA.txt,0,1.0
+Gaming,Fortnite,Fortnite_How_to_report_bad_player_behavior.txt,1,1.0
+Gaming,Fortnite,Fortnite_Cabined_Accounts.txt,4,1.0
+Gaming,Fortnite,Fortnite_sanctions_and_appeals.txt,4,0.4416655900186363
+Gaming,Fortnite,Fortnite_privacy_policy.txt,4,0.8929095562599876
+Gaming,Fortnite,Fortnite_community_guidelines.txt,4,1.0
+Gaming,Fortnite,Fortnite_Fan_Content_Policy.txt,-1,0.0
+Gaming,Fortnite,Fortnite_Report_Content.txt,4,1.0
+Gaming,Fortnite,Fortnite_reporting_misconduct.txt,4,1.0
+Gaming,Fortnite,Fortnite_Creator_Rules.txt,4,0.689298956758122
+SocialMedia,Discord,Discord_Warning_System.txt,-1,0.0
+SocialMedia,Discord,Discord_appeal_our_actions.txt,2,1.0
+SocialMedia,Discord,Discord_spam_and_hacking.txt,14,1.0
+SocialMedia,Discord,Discord_Culture_of_Safety.txt,2,1.0
+SocialMedia,Discord,Discord_Off-Platform_Behaviors.txt,-1,0.0
+SocialMedia,Discord,Discord_Trust_and_Safety_Investigations.txt,2,1.0
+SocialMedia,Discord,Discord_Platform_Manipulation.txt,14,0.8799592021723437
+SocialMedia,Discord,Discord_Law_Enforcement.txt,2,1.0
+SocialMedia,Discord,Discord_reporting_abusive_behaviour.txt,2,0.7548419097740803
+SocialMedia,Discord,Discord_Tip_ for_Parents.txt,12,0.3601122611525946
+SocialMedia,Discord,Discord_privacy_policy.txt,2,0.7343005741234422
+SocialMedia,Discord,Discord_Terms_of_Service.txt,0,1.0
+SocialMedia,Discord,Discord_Community_Guidelines.txt,2,1.0
+SocialMedia,Discord,Discord_Suicide_and_Self-harm.txt,5,0.7394398865436171
+SocialMedia,Discord,Discord_How_to_Report_Abusive_Behavior .txt,2,0.7676030393592818
+SocialMedia,Discord,Discord_Sexual_Content.txt,7,1.0
+SocialMedia,Discord,Discord_Bringing_Policies_to_Life.txt,2,1.0
+SocialMedia,Discord,Discord_Violence _and_Graphic_Content.txt,17,1.0
+SocialMedia,Discord,Discord_Doxxing.txt,2,1.0
+SocialMedia,Discord,Discord_Hateful_Conduct.txt,8,0.517543363664532
+SocialMedia,Discord,Discord_scams.txt,-1,0.0
+SocialMedia,Discord,Discord_Mental_Health.txt,-1,0.0
+SocialMedia,Discord,Discord_administrators_and_moderators.txt,2,1.0
+SocialMedia,Discord,Discord_Bullying_and_harassment.txt,13,0.9177034544670111
+SocialMedia,Discord,Discord_how_we_investigate.txt,2,1.0
+SocialMedia,Discord,Discord_Non-Consensual_Adult_Intimate.txt,7,0.923080510461851
+SocialMedia,Discord,Discord_Defining_and_Addressing_Online_Trolling.txt,13,0.4212771776723773
+SocialMedia,Discord,Discord_Violent_Extremism.txt,19,1.0
+SocialMedia,Discord,Discord_Support_Abuse.txt,2,1.0
+SocialMedia,Discord,Discord_Identity_and_Authenticity.txt,-1,0.0
+SocialMedia,Discord,Discord_Policies_and_Guidelines.txt,2,1.0
+SocialMedia,Discord,Discord_Teen_and_Child_Safety.txt,7,1.0
+SocialMedia,Discord,Discord_Ban_Evasion_and_Advanced_Harassment.txt,2,0.9871459692977504
+SocialMedia,Discord,Discord_account_safety.txt,2,0.8847741822997925
+SocialMedia,Pinterest,Pinterest_Report_hate_speech.txt,8,0.39025113243923537
+SocialMedia,Pinterest,Pinterest_transparency_report_2023.txt,3,1.0
+SocialMedia,Pinterest,Pinterest_Law_enforcement_guidelines.txt,20,1.0
+SocialMedia,Pinterest,Pinterest_Block_or_unblock_someone.txt,15,1.0
+SocialMedia,Pinterest,Pinterest_Teen_safety_options.txt,12,1.0
+SocialMedia,Pinterest,Pinterest_Report_harassment.txt,-1,0.0
+SocialMedia,Pinterest,Pinterest_Account_suspension.txt,16,0.336060592084373
+SocialMedia,Pinterest,Pinterest_Privacy_Policy.txt,0,1.0
+SocialMedia,Pinterest,Pinterest_Resources_for_parents_and_caregivers_of_teens.txt,12,0.8462311976805971
+SocialMedia,Pinterest,Pinterest_Review_the_Pinner_Promise.txt,-1,0.0
+SocialMedia,Pinterest,Pinterest_Terms_of_Service.txt,0,1.0
+SocialMedia,Pinterest,"Pinterest_Suicide,_self-harm_and_domestic_violence_prevention.txt",5,0.43362359203520073
+SocialMedia,Pinterest,Pinterest_Community_Guidelines.txt,3,1.0
+SocialMedia,Pinterest,Pinterest_Emotional_health_resources.txt,5,0.5392974816419419
+SocialMedia,Pinterest,Pinterest_Report_impersonation.txt,-1,0.0
+SocialMedia,Quora,Quora_Partner_Program.txt,0,1.0
+SocialMedia,Quora,Quora_self-injury.txt,5,0.33871882194419434
+SocialMedia,Quora,Quora_Spaces_Policies.txt,8,0.19088716402227796
+SocialMedia,Quora,Quora_harassing.txt,1,1.0
+SocialMedia,Quora,Quora_Platform_Policies.txt,-1,0.0
+SocialMedia,Quora,Quora_Privacy_Policy.txt,0,1.0
+SocialMedia,Quora,Quora_Acceptable_Use_Policy.txt,11,1.0
+SocialMedia,Quora,Quora_Terms_of_Service.txt,0,1.0
+SocialMedia,Quora,Quora_law_enforcement.txt,20,1.0
+SocialMedia,Quora,Quora_law_enforcement_2.txt,20,1.0
+SocialMedia,Quora,Quora_moderator_guide.txt,3,0.7976037422546707
+SocialMedia,Meta,Meta_bullying_tips.txt,10,0.7752028748165278
+SocialMedia,Meta,Meta_violence_and_criminality.txt,11,0.7178117044684923
+SocialMedia,Meta,Meta_Dangerous_organisations_and_individuals.txt,19,1.0
+SocialMedia,Meta,Meta_teen_bully.txt,10,0.6486122789743534
+SocialMedia,Meta,Meta_Violence_and_incitement.txt,19,1.0
+SocialMedia,Meta,Meta_Privacy_violations.txt,0,1.0
+SocialMedia,Meta,Meta_sextortion_guide.txt,-1,0.0
+SocialMedia,Meta,Meta_Self-Harm_and_Suicide_Publisher_and_Creator_Guidelines.txt,5,0.6823658593190892
+SocialMedia,Meta,Meta_Bullying_and_Harassment_Publisher_and_Creator_Guidelines.txt,13,1.0
+SocialMedia,Meta,Meta_account_integrity.txt,-1,0.0
+SocialMedia,Meta,Meta_restricting_accounts.txt,16,0.3483043719193533
+SocialMedia,Meta,Meta_parents_bullying_1.txt,10,1.0
+SocialMedia,Meta,Meta_adult_sexual_exploitation.txt,7,0.7221633761170758
+SocialMedia,Meta,Meta_sextortion_tips.txt,-1,0.0
+SocialMedia,Meta,Meta_parents_bullying_2.txt,10,0.8423059283828709
+SocialMedia,Meta,Meta_Coordinating_harm_and_promoting_crime _ Transparency Centre.txt,17,1.0
+SocialMedia,Meta,Meta_counting_strikes.txt,11,1.0
+SocialMedia,Meta,Meta_community_standards_update.txt,11,1.0
+SocialMedia,Meta,Meta_suicide_prevention.txt,5,1.0
+SocialMedia,Meta,Meta_violating_content.txt,11,1.0
+SocialMedia,Meta,Meta_parents_and_bullying.txt,10,0.6894728140711618
+SocialMedia,Meta,Meta_content_guide.txt,-1,0.0
+SocialMedia,Meta,Meta_Bullying_and_Harassment.txt,13,0.6675853591045012
+SocialMedia,Meta,Meta_respond_to_bullying.txt,10,0.6156341345452616
+SocialMedia,Meta,Meta_Hate_speech_advertising.txt,8,0.43895534081297716
+SocialMedia,Meta,Meta_misinformation.txt,18,1.0
+SocialMedia,Meta,Meta_hate_speech_publisher_and_creator_guidelines.txt,8,0.517543363664532
+SocialMedia,Meta,Meta_Privacy_Policy_ How_Meta_collects_and_uses_user_data.txt,0,1.0
+SocialMedia,Meta,Meta_self-harm_and_suicide_creator_guidelines.txt,5,0.7394398865436171
+SocialMedia,Meta,Meta_community_standards_enforcement_report.txt,3,1.0
+SocialMedia,Meta,Meta_content_violating_community_standards.txt,11,0.9235694945724944
+SocialMedia,Meta,Meta_Inauthentic_behaviour.txt,-1,0.0
+SocialMedia,Meta,Meta_Suicide_and_self-injury.txt,5,0.546709199375232
+SocialMedia,Meta,Meta_Hate_speech.txt,8,0.517543363664532
+SocialMedia,Meta,Meta_teens_bullying.txt,10,0.40520143797722175
+SocialMedia,Meta,Meta_Commerce_Policy.txt,0,0.9318941328364141
+SocialMedia,Meta,Meta_prevent_bullying_and_harassment.txt,10,0.5544690936965091
+SocialMedia,Meta,Meta_teacher_bullying_4.txt,10,1.0
+SocialMedia,Meta,Meta_Community_Standards.txt,3,0.7927233412871552
+SocialMedia,Meta,Meta_teacher_bullying_1.txt,10,0.5610069978331209
+SocialMedia,Meta,Meta_spam.txt,-1,0.0
+SocialMedia,Meta,Meta_teen_bullying_support.txt,10,0.4905167456881433
+SocialMedia,Meta,Meta_teacher_bullying_2.txt,10,1.0
+SocialMedia,Meta,Meta_teacher_bullying_3.txt,10,1.0
+SocialMedia,Meta,Meta_cybersecurity.txt,-1,0.0
+SocialMedia,YouTube,YouTube_Hate speech policy.txt,8,0.517543363664532
+SocialMedia,YouTube,YouTube_harmful_or_dangerous_content.txt,-1,0.0
+SocialMedia,YouTube,YouTube_Educational_Documentary_Scientific_and_Artistic_content.txt,3,1.0
+SocialMedia,YouTube,YouTube_appeal.txt,-1,0.0
+SocialMedia,YouTube,YouTube_Harassment _&_cyberbullying_policies.txt,13,1.0
+SocialMedia,YouTube,YouTube_child_safety.txt,12,0.556725393174067
+SocialMedia,YouTube,YouTube_thumbnail_policy.txt,-1,0.0
+SocialMedia,YouTube,YouTube_community_guidelines_2.txt,3,1.0
+SocialMedia,YouTube,YouTube_Nudity_&_Sexual_Content.txt,7,1.0
+SocialMedia,YouTube,YouTube_community_guidelines_tips.txt,-1,0.0
+SocialMedia,YouTube,YouTube_children_and_teens.txt,12,0.8462311976805971
+SocialMedia,YouTube,YouTube_Privacy_Policy.txt,0,1.0
+SocialMedia,YouTube,YouTube_manage_harmful_content.txt,3,1.0
+SocialMedia,YouTube,YouTube_Privacy _Guidelines.txt,0,0.7978500632918536
+SocialMedia,YouTube,YouTube_Misinformation.txt,18,1.0
+SocialMedia,YouTube,YouTube_creator_responsibility.txt,3,1.0
+SocialMedia,YouTube,YouTube_external_links_policy.txt,3,1.0
+SocialMedia,YouTube,YouTube_spam_policy.txt,14,1.0
+SocialMedia,YouTube,YouTube_Violent_extremist_policy.txt,19,1.0
+SocialMedia,YouTube,YouTube_suicide_and_self-harm_guide.txt,5,0.6060399031709139
+SocialMedia,YouTube,YouTube_Terms_of_Service.txt,0,1.0
+SocialMedia,YouTube,YouTube_hate_and_harassment.txt,8,0.2993579185709978
+SocialMedia,YouTube,YouTube_community_guidelines.txt,3,1.0
+SocialMedia,YouTube,YouTube_Violent_or_graphic_content.txt,17,1.0
+SocialMedia,YouTube,YouTube_age_restricted_content.txt,12,0.45614504253787513
+SocialMedia,YouTube,YouTube_reporting_tools.txt,8,0.3004451339776004
+SocialMedia,YouTube,"YouTube_Suicide,_self-harm,_and_eating_disorders_policy.txt",5,0.5144296818912356
+SocialMedia,YouTube,YouTube_channel_or_account_terminations.txt,-1,0.0
+SocialMedia,YouTube,YouTube_community_guidelines_strikes.txt,-1,0.0
+SocialMedia,Facebook,Facebook_Publisher_content_and_Facebook_Community_Standards  .txt,3,1.0
+SocialMedia,Facebook,Facebook_Why_you_can't_post.txt,21,1.0
+SocialMedia,Facebook,Facebook_report_suicidal_content.txt,5,0.2678463396392045
+SocialMedia,Facebook,Facebook_Suicide_and_self-injury_resources.txt,5,0.7394398865436171
+SocialMedia,Facebook,Facebook_What_types_of_behaviour_does_Facebook_identify_as_abusive.txt,1,1.0
+SocialMedia,Facebook,Facebook_report_abuse.txt,1,1.0
+SocialMedia,Facebook,Facebook_report_inappropriate_or_abusive_things.txt,1,1.0
+SocialMedia,Facebook,Facebook_Help_and_support_for_suicidal_or_self-injurious_thoughts.txt,5,0.5964530024081712
+SocialMedia,Facebook,Facebook_reporting_abuse.txt,1,1.0
+SocialMedia,Facebook,Facebook_How_to_handle_threats_to_share_private_images_or_personal_info_on_Facebook.txt,-1,0.0
+SocialMedia,Facebook,Facebook_What_types_of_things_aren't_allowed.txt,-1,0.0
+SocialMedia,Facebook,Facebook_Report_content_on_Facebook.txt,1,1.0
+SocialMedia,Facebook,Facebook_account_suspension.txt,16,1.0
+SocialMedia,Facebook,"Facebook_How_to_handle_bullying,_harassment_or_personal attack_on_Facebook.txt",10,0.3235626247829467
+SocialMedia,Facebook,Facebook_Terms_of_Service.txt,0,1.0
+SocialMedia,Facebook,Facebook_blocked_from_sending_friend_requests.txt,15,1.0
+SocialMedia,Facebook,Facebook_report_a_message.txt,-1,0.0
+SocialMedia,Facebook,Facebook_reporting_guide.txt,1,1.0
+SocialMedia,Facebook,Facebook_abuse_resources.txt,10,0.4410475185713188
+SocialMedia,Facebook,Facebook_community_guidelines.txt,3,1.0
+SocialMedia,Facebook,Facebook_safety_guidelines.txt,11,0.6670949547912063
+SocialMedia,Reddit,Reddit_harassment_filter.txt,21,1.0
+SocialMedia,Reddit,Reddit_spam.txt,14,1.0
+SocialMedia,Reddit,Reddit_Developer_Terms.txt,0,1.0
+SocialMedia,Reddit,Reddit_Promoting_Hate_Based_on_Identity_or_Vulnerability.txt,8,0.4613738459571734
+SocialMedia,Reddit,Reddit_Public_Content_Policy.txt,3,1.0
+SocialMedia,Reddit,Reddit_Do_not_post_violent_content.txt,17,0.6003086994788803
+SocialMedia,Reddit,Reddit_community_muting.txt,-1,0.0
+SocialMedia,Reddit,Reddit_account_ban.txt,16,0.5286692501565867
+SocialMedia,Reddit,Reddit_uncomfortable_content.txt,11,0.8501871373492106
+SocialMedia,Reddit,Reddit_Content_Moderation.txt,3,1.0
+SocialMedia,Reddit,Reddit_non-consensual_sharing.txt,7,0.5839986091394698
+SocialMedia,Reddit,Reddit_transparency_report_2024.txt,3,1.0
+SocialMedia,Reddit,Reddit_Do_not_threaten_harass_bully.txt,13,0.8222992383765173
+SocialMedia,Reddit,Reddit_How_do_I_report_abuse_of_the_report_system.txt,1,1.0
+SocialMedia,Reddit,Reddit_posting_private_information.txt,-1,0.0
+SocialMedia,Reddit,Reddit_Moderator_Code_of_Conduct.txt,3,1.0
+SocialMedia,Reddit,Reddit_Privacy_Policy.txt,0,1.0
+SocialMedia,Reddit,Reddit_User_Agreement.txt,0,1.0
+SocialMedia,Reddit,Reddit_report_spam.txt,1,0.8384747798031615
+SocialMedia,Reddit,Reddit_Guidelines_for_Law_Enforcement.txt,20,1.0
+SocialMedia,Reddit,Reddit_quarantined_communities.txt,3,1.0
+SocialMedia,Reddit,Reddit_Content_Policy.txt,-1,0.0
+SocialMedia,TikTok,TikTok_accounts_and_features.txt,16,0.45128753930131943
+SocialMedia,TikTok,TikTok_Integrity_and_Authenticity.txt,18,1.0
+SocialMedia,TikTok,TikTok_content_violations_and_bans.txt,3,1.0
+SocialMedia,TikTok,TikTok_guardian's guide.txt,12,0.8102237205737407
+SocialMedia,TikTok,TikTok_wellbeing.txt,2,1.0
+SocialMedia,TikTok,TikTok_Mental_and_Behavioral_Health.txt,5,1.0
+SocialMedia,TikTok,TikTok_Safety_and_civility.txt,17,0.8773297128179343
+SocialMedia,TikTok,TikTok_safety_guide.txt,-1,0.0
+SocialMedia,TikTok,TikTok_eating_disorders.txt,5,0.31845810346771514
+SocialMedia,TikTok,TikTok_content_moderation.txt,3,1.0
+SocialMedia,TikTok,TikTok_suicide_and_self-harm.txt,5,0.7457697361371124
+SocialMedia,TikTok,TikTok_youth_safety_and_well-being.txt,12,0.7826769327019747
+SocialMedia,TikTok,TikTok_Community_guidelines.txt,3,1.0
+SocialMedia,TikTok,TikTok_community_principles.txt,3,0.933851262535037
+SocialMedia,TikTok,TikTok_teen_privacy_and_safety.txt,12,1.0
+SocialMedia,TikTok,TikTok_account_safety.txt,2,0.7913840161923339
+SocialMedia,TikTok,TikTok_sexual_abuse_support.txt,7,0.5487700880668795
+SocialMedia,TikTok,TikTok_community_guidelines_new_rules.txt,3,0.8139863028175613
+SocialMedia,TikTok,TikTok_privacy_policy.txt,0,1.0
+SocialMedia,TikTok,TikTok_bullying_prevention.txt,10,1.0
+SocialMedia,TikTok,TikTok_comments_live.txt,-1,0.0
+SocialMedia,TikTok,TikTok_Terms_of_Service.txt,0,1.0
+SocialMedia,TikTok,TikTok_countering_hate_speech_&_behavior.txt,8,0.47844726096799145
+SocialMedia,Instagram,Instagram_suicide_and_self-injury.txt,5,1.0
+SocialMedia,Instagram,Instagram_parent's_guide.txt,12,1.0
+SocialMedia,Instagram,Instagram_reporting_guide.txt,1,1.0
+SocialMedia,Instagram,Instagram_Recommendations_on_Instagram.txt,5,0.2534694954003395
+SocialMedia,Instagram,Instagram_dealing_with_conflict.txt,-1,0.0
+SocialMedia,Instagram,Instagram_Terms_of_Use.txt,0,1.0
+SocialMedia,Instagram,Instagram_anti_bullying.txt,21,1.0
+SocialMedia,Instagram,Instagram_falsely_reported.txt,-1,0.0
+SocialMedia,Instagram,Instagram_bullying_and_harassment_guide.txt,21,1.0
+SocialMedia,Instagram,Instagram_Abuse_and_Spam.txt,1,1.0
+SocialMedia,Instagram,Instagram_defamation.txt,-1,0.0
+SocialMedia,Instagram,Instagram_Community_Guidelines.txt,3,0.8903219591971888
+SocialMedia,Instagram,Instagram_abuse_guide.txt,-1,0.0
+SocialMedia,Instagram,Instagram_Community_Guidelines_FAQs.txt,3,0.8903219591971888
+SocialMedia,Instagram,Instagram_anti-harassment_features.txt,21,1.0
+SocialMedia,Instagram,Instagram_hate_accounts.txt,13,0.39300413324185113
+SocialMedia,Instagram,Instagram_About_Eating_Disorders.txt,5,0.29379839236683664
+SocialMedia,Instagram,Instagram_suicide_and_self-harm.txt,5,1.0
+SocialMedia,Instagram,Instagram_sensitive_content.txt,3,0.7821166441646289
+SocialMedia,Instagram,Instagram_content_lowering.txt,3,1.0
+SocialMedia,Instagram,Instagram_how_to_report.txt,1,0.7165619524149596
+SocialMedia,Instagram,Instagram_tools_protect_against_abuse.txt,21,1.0
+SocialMedia,Instagram,Instagram_Reporting_harassment_or_bullying_on_Instagram.txt,-1,0.0
+SocialMedia,Instagram,Instagram_Self-Injury.txt,5,0.7573941963193899
+SocialMedia,Instagram,Instagram_eating_disorder_help.txt,5,0.327812289969279
+SocialMedia,Instagram,Instagram_report_abuse.txt,10,0.47577146885581534
+SocialMedia,Instagram,Instagram_content_reccomendations.txt,5,0.33655345774268675
+SocialMedia,Instagram,Instagram_bullying_prevention.txt,10,0.6152119465913869
+SocialMedia,X,X_Understanding_how_X_handles_offensive_or_explicit_Posts.txt,6,0.7363171659763165
+SocialMedia,X,X_private_information_policy_and_doxxing.txt,6,1.0
+SocialMedia,X,X_authenticity.txt,6,0.6785210845895966
+SocialMedia,X,X_notices_and_meanings.txt,6,0.38128672838746525
+SocialMedia,X,X_suicide_&_self-harm_policy.txt,6,0.7998516062049107
+SocialMedia,X,X_abusive_profile_information.txt,6,1.0
+SocialMedia,X,X_enforcement.txt,6,0.36758438284773426
+SocialMedia,X,X_suspended_accounts.txt,6,0.9134243103074019
+SocialMedia,X,X_How_X_handles_abuse_and_harassment.txt,6,1.0
+SocialMedia,X,X_Perpetrators_of_violent_attacks_policy.txt,6,0.7189060511071566
+SocialMedia,X,X_customizing_your_X_experience.txt,6,0.6770459266659412
+SocialMedia,X,X_non-consensual_nudity_policy.txt,6,1.0
+SocialMedia,X,X_Our_policy_on_violent_organizations.txt,6,0.9401604826795964
+SocialMedia,X,X_How_to_help_someone_experiencing_online_abuse.txt,6,0.98782758691668
+SocialMedia,X,X_violent_and_hateful_entities.txt,6,0.7363171659763165
+SocialMedia,X,X_Terms_of_Service.txt,0,1.0
+SocialMedia,X,X_policy_on_hateful_conduct.txt,6,1.0
+SocialMedia,X,X_enforcement_policy.txt,6,0.39538209222836546
+SocialMedia,X,X_What_to_do_about_self-harm_and_suicide_concerns_on_X.txt,6,0.7189060511071566
+SocialMedia,X,X_Privacy_Policy.txt,0,1.0
+SocialMedia,X,X_How_to_handle_abuse_and_how_we_can_help.txt,6,0.726438546354895
+SocialMedia,X,X_legal_request_FAQs.txt,6,0.5803506793447192
+SocialMedia,X,X_How_to_report_violations_of_X_Rules_and_Terms_of_Service.txt,6,0.3275345797608384
+SocialMedia,X,X_Violent_Content.txt,6,0.7040692266328155
+SocialMedia,X,X_reporting.txt,6,0.47529198687715424
+SocialMedia,X,X_reporting_abuse.txt,6,0.8491168851365694
+SocialMedia,X,X_transparency_report.txt,3,1.0
+SocialMedia,X,X_blocking_links.txt,6,0.8037315440315722
+SocialMedia,LinkedIn,LinkedIn_reporting_jobs.txt,1,1.0
+SocialMedia,LinkedIn,LinkedIn_account_restrictions.txt,16,0.49260549897055983
+SocialMedia,LinkedIn,LinkedIn_User_Agreement.txt,0,1.0
+SocialMedia,LinkedIn,LinkedIn_Hateful_and_derogatory_content.txt,8,0.3982379611916629
+SocialMedia,LinkedIn,LinkedIn_Automated_harm_detection.txt,-1,0.0
+SocialMedia,LinkedIn,LinkedIn_how_we_enforce_our_professional_community_policies.txt,11,0.9199325561975561
+SocialMedia,LinkedIn,LinkedIn_Recognize_and_report.txt,14,0.7541776530981184
+SocialMedia,LinkedIn,LinkedIn_Community_Chats_FAQ.txt,9,1.0
+SocialMedia,LinkedIn,Linkedin_report_unsafe.txt,-1,0.0
+SocialMedia,LinkedIn,LinkedIn_Report_harassment_or_a_safety_concern.txt,-1,0.0
+SocialMedia,LinkedIn,LinkedIn_Sexual_innuendos_and_unwanted_advances.txt,7,0.8464181477722624
+SocialMedia,LinkedIn,LinkedIn_community_guidelines.txt,-1,0.0
+SocialMedia,LinkedIn,LinkedIn_enforcement.txt,11,0.874725730990647
+SocialMedia,LinkedIn,LinkedIn_Harassment_and_abusive_content.txt,13,0.5648990295810267
+SocialMedia,LinkedIn,LinkedIn_Service_Terms.txt,0,1.0
+SocialMedia,LinkedIn,LinkedIn_User_Agreement_Summary.txt,0,0.6460951734825293
+SocialMedia,LinkedIn,LinkedIn_blocking.txt,15,1.0
+SocialMedia,LinkedIn,LinkedIn_report_message.txt,-1,0.0
+SocialMedia,LinkedIn,LinkedIn_sending_requests.txt,15,1.0
+SocialMedia,LinkedIn,LinkedIn_Transparency_Community_Report.txt,14,0.8141773187192547
+SocialMedia,LinkedIn,LinkedIn_Types_of_content_policy_violations.txt,-1,0.0
+InstantMessaging,Google Messages,Google_Messages_Terms_of_service.txt,0,1.0
+InstantMessaging,Google Messages,Google_Messages_Report_spam.txt,14,0.70606075798781
+InstantMessaging,Google Messages,Google_Messages_your_account_is_disabled.txt,16,1.0
+InstantMessaging,Google Messages,Google_Messages_Understand_the_basics_of_privacy.txt,9,1.0
+InstantMessaging,Google Messages,Google_Messages_privacy_policy.txt,0,1.0
+InstantMessaging,Google Messages,Google_Messages_policies.txt,11,1.0
+InstantMessaging,Google Messages,Google_Messages_about_community_guidelines.txt,-1,0.0
+InstantMessaging,Google Messages,Google_Messages_Block_senders_and_report_spam.txt,15,0.7253063257414322
+InstantMessaging,Google Messages,Google_Messages_spam_detection.txt,14,0.7385315807294671
+InstantMessaging,Google Messages,Google_Messages_about_suspicious_message_alerts .txt,14,0.6887072327013698
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Report_inappropriate_or_abusive_things .txt,1,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_report_community_chats.txt,9,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_unsent_messages.txt,15,0.8334859731252051
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Privacy_and_safety_on_Messenger.txt,9,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Report_something.txt,1,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_friend_request_messenger_kids.txt,15,0.873003490357881
+InstantMessaging,Facebook Messenger,Facebook_Messenger_who_can_message_you.txt,15,0.7002496441775973
+InstantMessaging,Facebook Messenger,Facebook_Messenger_What_to_do_if_someone_is_bothering_you.txt,15,0.5845291539234356
+InstantMessaging,Facebook Messenger,"Facebook_Messenger_blocking,_reporting,_and_deleting.txt",15,0.9976362491250608
+InstantMessaging,Facebook Messenger,Facebook_Messenger_community_chats.txt,9,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Reporting_abuse.txt,1,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_How_do_I_report_something_on_Facebook_if_I_dont_have_an_accout.txt,1,1.0
+InstantMessaging,Facebook Messenger,Facecbook_Messenger_Access_to_community_chats_for_Facebook_groups.txt,9,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Blocked_from_sending_friend_requests on Facebook.txt,15,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Spam.txt,14,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Preventing_Unwanted_Contacts.txt,9,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_suicide_and_self-harm.txt,5,1.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_Reporting_Conversations.txt,-1,0.0
+InstantMessaging,Facebook Messenger,Facebook_Messenger_friending.txt,15,0.8744677252931425
+InstantMessaging,Telegram,Telegram_FAQ.txt,9,0.9709938045654722
+InstantMessaging,Telegram,Telegram_Bug_Bounty_Program.txt,-1,0.0
+InstantMessaging,Telegram,Telegram_FAQ_Spam.txt,14,0.7650326756236742
+InstantMessaging,Telegram,Telegram_Privacy_Policy.txt,-1,0.0
+InstantMessaging,Telegram,Telegram_Terms_of_Service.txt,16,0.6495305308323253
+InstantMessaging,Telegram,Telegram_Terms_of_Service_for_Telegram_Gateway.txt,0,1.0
+InstantMessaging,Telegram,Telegram_Creating_your_Telegram_Application.txt,16,0.5024355546263753
+InstantMessaging,Telegram,Telegram_Support_Force.txt,-1,0.0
+InstantMessaging,Telegram,Telegram_Ads.txt,0,0.8090614713497011
+InstantMessaging,Telegram,Telegram_User_guidance_for_the_EU_Digital_Services_Act.txt,-1,0.0
+InstantMessaging,Snapchat,Snapchat_report_a_safety_concern.txt,2,0.9120046722481433
+InstantMessaging,Snapchat,Snapchat_Terms_of_service.txt,0,1.0
+InstantMessaging,Snapchat,Snapchat_How_do_I_stay_safe.txt,2,1.0
+InstantMessaging,Snapchat,Snapchat_content_guidelines_for_recommendation_eligibility.txt,3,0.7821166441646289
+InstantMessaging,Snapchat,Snapchat_Privacy_Policy.txt,0,1.0
+InstantMessaging,Snapchat,Snapchat_Harassment_&_Bullying.txt,13,0.651045909488189
+InstantMessaging,Snapchat,Snapchat_Harassment_&_Bullying_recommendation_eligibility.txt,13,1.0
+InstantMessaging,Snapchat,Snapchat_back_to_school.txt,12,1.0
+InstantMessaging,Snapchat,Snapchat_Sexual_Content.txt,7,0.790247233591242
+InstantMessaging,Snapchat,"Snapchat_Moderation,_Enforcement,_and_Appeals.txt",3,1.0
+InstantMessaging,Snapchat,Snapchat_adult_content_advertising.txt,7,0.9696688575508174
+InstantMessaging,Snapchat,Snapchat_Transparency_Report_2023.txt,3,0.9673892931510621
+InstantMessaging,Snapchat,Snapchat_who_can_contact.txt,9,0.9217777381507233
+InstantMessaging,Snapchat,Snapchat_Community_Guidelines.txt,-1,0.0
+InstantMessaging,Snapchat,Snapchat_Hateful_Content.txt,19,1.0
+InstantMessaging,Snapchat,Snapchat_law_enforcement.txt,20,1.0
+InstantMessaging,Snapchat,Snapchat_hate_terrorism_and_extremism_advertising.txt,8,0.2636808801693676
+InstantMessaging,Snapchat,Snapchat_transparency_report_glossary.txt,-1,0.0
+InstantMessaging,Snapchat,Snapchat_safety_centre.txt,2,0.9862367785045012
+InstantMessaging,Snapchat,Snapchat_New_Features_to_Help_Protect_Our_Community.txt,9,0.6886167480458206
+InstantMessaging,Snapchat,Snapchat_Violent_or_Disturbing.txt,17,0.4485812441289156
+InstantMessaging,Snapchat,Snapchat_How_We_Keep_Our_Snapchat_Community_Safe_&_Informed .txt,2,1.0
+InstantMessaging,Snapchat,Snapchat_Safeguards_for_Teens_Parent’s_Guide_to_Snapchat.txt,12,1.0
+InstantMessaging,Snapchat,"Snapchat_Threats,_Violence_&_Harm.txt",17,0.5207638402444048
+InstantMessaging,Snapchat,Snapchat_Suicide_Prevention_Awareness.txt,5,0.8023390669270934
+InstantMessaging,Snapchat,Snapchat_False_or_Deceptive_Information_eligibility_requirements.txt,18,0.44314467844986166
+InstantMessaging,Snapchat,Snapchat_severe_harm.txt,2,0.6926942680182722
+InstantMessaging,Snapchat,Snapchat_error_logging_in.txt,16,1.0
+InstantMessaging,Snapchat,Snapchat_Safety_Resources.txt,2,0.722001500802869
+InstantMessaging,Snapchat,Snapchat_Well-being_Features.txt,2,0.8370144666634035
+InstantMessaging,Snapchat,Snapchat_Harassment_prohibited.txt,-1,0.0
+InstantMessaging,Snapchat,Snapchat_privacy_by_product.txt,9,1.0
+InstantMessaging,Snapchat,Snapchat_How_do_I_report_abuse_or_illegal_content_on_Snapchat.txt,-1,0.0
+InstantMessaging,Snapchat,Snapchat_harmful_false_or_deceptive_information.txt,18,1.0
+InstantMessaging,WhatsApp,WhatsApp_How_to_keep_your_groups_and_community_safe.txt,9,0.7174700276637308
+InstantMessaging,WhatsApp,WhatsApp_Messaging_Guidelines.txt,9,1.0
+InstantMessaging,WhatsApp,WhatsApp_How_to_use_WhatsApp_responsibly.txt,9,1.0
+InstantMessaging,WhatsApp,WhatsApp_admin_controls.txt,-1,0.0
+InstantMessaging,WhatsApp,WhatsApp_Supporting_your_well-being.txt,-1,0.0
+InstantMessaging,WhatsApp,WhatsApp_Information_for_Law_Enforcement.txt,20,1.0
+InstantMessaging,WhatsApp,WhatsApp_suspicious_messages_and_scams.txt,-1,0.0
+InstantMessaging,WhatsApp,WhatsApp_Establish_boundaries_and_a_positive_atmosphere.txt,-1,0.0
+InstantMessaging,WhatsApp,WhatsApp_How_to_stay_safe.txt,9,1.0
+InstantMessaging,WhatsApp,WhatsApp_traceability.txt,9,1.0
+InstantMessaging,WhatsApp,WhatsApp_Privacy_Policy.txt,0,1.0
+InstantMessaging,WhatsApp,WhatsApp_end_to_end_encryption.txt,9,1.0
+InstantMessaging,WhatsApp,WhatsApp_Terms_of_Service.txt,0,1.0
+InstantMessaging,WhatsApp,WhatsApp_About_building_private_safe_and_secure_communities.txt,9,0.7573435618241927
+InstantMessaging,WhatsApp,WhatsApp_Help_your_teen_stay_safe .txt,12,0.8824995061163761
+InstantMessaging,WhatsApp,WhatsApp_building_a_safe_community.txt,-1,0.0
+Dating,Bumble,Bumble_violent_content.txt,17,1.0
+Dating,Bumble,Bumble_suicide_and_self-harm.txt,5,0.6733950451667278
+Dating,Bumble,Bumble_Support_fetishized_trans_woman.txt,1,1.0
+Dating,Bumble,Bumble_community_guidelines.txt,-1,0.0
+Dating,Bumble,Bumble_Disinformation.txt,18,1.0
+Dating,Bumble,Bumble_why_we_are_asking_about_ethnicity.txt,8,0.9709342247767693
+Dating,Bumble,Bumble_When_Should_I_Use_Block_and_report.txt,1,0.7129813352889545
+Dating,Bumble,Bumble_Microaggressions_and_fetishization.txt,1,1.0
+Dating,Bumble,Bumble_Reporting_after_being_unmatched.txt,1,1.0
+Dating,Bumble,Bumble_dangerous_organisations.txt,19,1.0
+Dating,Bumble,Bumble_what_will_get_you_kicked_off.txt,-1,0.0
+Dating,Bumble,Bumble_Safety_IRL.txt,2,1.0
+Dating,Bumble,Bumble_unsolicited_images.txt,7,0.7061011779495903
+Dating,Bumble,Bumble_scam.txt,-1,0.0
+Dating,Bumble,Bumble_bullying_and_abuse.txt,13,1.0
+Dating,Bumble,Bumble_unsolicited_indecent_photo.txt,-1,0.0
+Dating,Bumble,Bumble_politics_filter.txt,3,1.0
+Dating,Bumble,Bumble_Unmatch_someone.txt,1,1.0
+Dating,Bumble,Bumble_safety_guide.txt,2,1.0
+Dating,Bumble,Bumble_identity_based_hate.txt,8,1.0
+Dating,Bumble,Bumble_unmatched.txt,-1,0.0
+Dating,Bumble,Bumble_nudity.txt,7,1.0
+Dating,Bumble,Bumble_Reporting_abusive_messages.txt,1,1.0
+Dating,Bumble,Bumble_Privacy_policy.txt,0,1.0
+Dating,Bumble,Bumble_misinformation.txt,18,0.6580632490920512
+Dating,Bumble,Bumble_spam.txt,14,0.9373978659890685
+Dating,Bumble,Bumble_digital_abuse.txt,13,0.4001364148180313
+Dating,Bumble,Bumble_what_does_sexual_harassment_look_like.txt,7,0.47164670376248613
+Dating,Bumble,Bumble_identity_based_hate_article.txt,8,0.9527475895081242
+Dating,Bumble,Bumble_Block_and_Report.txt,1,1.0
+Dating,Bumble,Bumble_What_happens_when_you_report.txt,1,1.0
+Dating,Bumble,Bumble_catfishing.txt,1,0.7131627698763131
+Dating,Bumble,Bumble_sexual_harassment.txt,7,0.6862750140029182
+Dating,Bumble,Bumble_terms_and_conditions.txt,0,1.0
+Dating,Bumble,Bumble_physical_and_sexual_violence.txt,7,0.4210756058501683
+Dating,Grindr,Grindr_safety_tips.txt,-1,0.0
+Dating,Grindr,Grindr_Terms_of_Service.txt,0,1.0
+Dating,Grindr,Grindr_Quick_safety_tips.txt,2,0.9589443889688779
+Dating,Grindr,Grindr_support_contacts.txt,-1,0.0
+Dating,Grindr,Grindr_safety.txt,2,0.7431338374880814
+Dating,Grindr,Grindr_machine_learning.txt,0,0.7491692727562879
+Dating,Grindr,Grindr_consent.txt,7,0.6054091643346643
+Dating,Grindr,Grindr_album_sharing.txt,-1,0.0
+Dating,Grindr,Grindr_trans_support.txt,1,0.7851705447831953
+Dating,Grindr,Grindr_sexual_harassment_trans.txt,1,0.826247154192982
+Dating,Grindr,Grindr_Blocking_and_reporting.txt,1,1.0
+Dating,Grindr,Grindr_establishing_trust.txt,-1,0.0
+Dating,Grindr,Grindr_make_grindr_joyful.txt,1,0.8299946997507449
+Dating,Grindr,Grindr_Holistic_safety_guide.txt,2,0.7188297275276906
+Dating,Grindr,Grindr_privacy_policy.txt,0,1.0
+Dating,Grindr,Grindr_scam.txt,-1,0.0
+Dating,Grindr,Grindr_Meeting_up.txt,2,1.0
+Dating,Grindr,Grindr_Community_Guidelines.txt,3,0.750891023520777
+Dating,Grindr,Grindr_How_Grindr_moderates.txt,-1,0.0
+Dating,Badoo,Badoo_Privacy_Policy.txt,0,1.0
+Dating,Badoo,Badoo_Screenshot_Block.txt,1,0.9060950753080672
+Dating,Badoo,Badoo_misinformation.txt,18,0.9671335552702479
+Dating,Badoo,Badoo_spam.txt,14,1.0
+Dating,Badoo,Badoo_How_to_Unmatch.txt,-1,0.0
+Dating,Badoo,Badoo_adult_nudity_and_sexual_activity.txt,7,1.0
+Dating,Badoo,Badoo_violent_or_graphic_content.txt,17,1.0
+Dating,Badoo,Badoo_physical_and_sexual_violence.txt,7,0.43282402609928194
+Dating,Badoo,Badoo_Rude_Message_Detector.txt,1,0.9009727309626349
+Dating,Badoo,Badoo_Block_and_Report.txt,1,0.906752991730477
+Dating,Badoo,Badoo_Community_Guidelines.txt,-1,0.0
+Dating,Badoo,Badoo_explicit_photo.txt,7,0.6600087574085964
+Dating,Badoo,Badoo_Terms_and_conditions_of_use.txt,0,1.0
+Dating,Badoo,Badoo_sexual_harassment.txt,7,0.5246975155709428
+Dating,Badoo,Badoo_suicide_and_self-injury.txt,5,0.6921056220663281
+Dating,Badoo,Badoo_body_shaming.txt,1,1.0
+Dating,Badoo,Badoo_I_am_being_harassed.txt,-1,0.0
+Dating,Badoo,Badoo_identity-based_hate_guide.txt,8,1.0
+Dating,Badoo,Badoo_identity-based_hate.txt,8,1.0
+Dating,Badoo,Badoo_bullying_and_abusive_content.txt,13,1.0
+Dating,Badoo,Badoo_abusive_message.txt,1,1.0
+Dating,Badoo,Badoo_What_happens_when_I_report.txt,1,1.0
+Dating,Hinge,Hinge_Safe_Dating_Advice.txt,-1,0.0
+Dating,Hinge,Hinge_No_Tolerance.txt,8,0.517543363664532
+Dating,Hinge,Hinge_terms_of_use.txt,0,1.0
+Dating,Hinge,Hinge_Supporting_Gender_Diversity.txt,8,1.0
+Dating,Hinge,Hinge_Stop_Asian_Hate.txt,8,0.5327791654786979
+Dating,Hinge,Hinge_reporting.txt,1,1.0
+Dating,Hinge,Hinge_are_you_sure.txt,15,0.5588835539714311
+Dating,Hinge,Hinge_automated_decision-making.txt,0,0.5604430969743182
+Dating,Hinge,Hinge_Communicating_and_Obtaining_Consent.txt,7,0.5487700880668795
+Dating,Hinge,Hinge_Trust_and_safety.txt,2,1.0
+Dating,Hinge,Hinge_What_We_Believe.txt,8,1.0
+Dating,Hinge,Hinge_report.txt,-1,0.0
+Dating,Hinge,Hinge_why_was_my_account_banned.txt,16,1.0
+Dating,Hinge,Hinge_sharing_across_Match.txt,0,1.0
+Dating,Hinge,Hinge_self-harm.txt,5,0.663219632000111
+Dating,Hinge,Hinge_Privacy_Policy.txt,0,1.0
+Dating,Hinge,Hinge_Consequences_for_False_Reporting.txt,-1,0.0
+Dating,Hinge,Hinge_Member_Principles.txt,2,0.9862367785045012
+Dating,Hinge,Hinge_how_interactions_with_other_members_are_processed.txt,-1,0.0
+Dating,Tinder,Tinder_Privacy_Policy.txt,0,1.0
+Dating,Tinder,Tinder_Safety.txt,2,1.0
+Dating,Tinder,Tinder_safety_and_policy_center.txt,2,0.9840599986968015
+Dating,Tinder,Tinder_How_To_Deal.txt,1,0.785332875218287
+Dating,Tinder,Tinder_Community_Guidelines.txt,-1,0.0
+Dating,Tinder,Tinder_reporting.txt,1,1.0
+Dating,Tinder,Tinder_case_reviews.txt,11,0.6601053430354921
+Dating,Tinder,Tinder_Safety_tips.txt,-1,0.0
+Dating,Tinder,Tinder_Reporting_something_to_Tinder.txt,11,0.8175099991860957
+Dating,Tinder,Tinder_Safety_features.txt,9,0.9444487306666435
+Dating,Tinder,Tinder_safety_resources.txt,-1,0.0
+Dating,Tinder,Tinder_the_basics.txt,1,1.0
+Dating,Tinder,Tinder_Privacy_FAQs.txt,-1,0.0
+Dating,Tinder,Tinder_dating_safety_tips.txt,-1,0.0
+Dating,Tinder,Tinder_Terms_of_Use.txt,0,1.0
+Dating,Tinder,Tinder_off-line_behaviour.txt,1,1.0
+Dating,Tinder,Tinder_suicide.txt,5,0.2577777006053079
+Dating,Tinder,Tinder_What_to_Report.txt,1,0.9254918434070633
+Dating,Tinder,Tinder_ghosting.txt,-1,0.0
+Dating,Tinder,Tinder_summary_of_terms.txt,0,1.0
+Dating,Tinder,Tinder_how_to_report.txt,1,1.0
+Dating,Tinder,Tinder_Enforcing_our_policies.txt,11,1.0
+Dating,Tinder,Tinder_consent_101.txt,7,0.5807540122105097
+Dating,Tinder,Tinder_Reporting_in-person_physical_harm.txt,2,0.7431338374880814

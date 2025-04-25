@@ -1,0 +1,359 @@
+filename,platform_name,platform_type,harm_tags,harm_psychological,harm_reputational,harm_physical,harm_sexual,harm_identity_based,harm_privacy,harm_economic,sentiment_score,cluster,umap_x,umap_y
+COD_black_ops_editions.txt,Call of Duty HQ,Gaming,['physical'],False,False,True,False,False,False,False,0.9985,1,12.505255,9.268927
+COD_Voice_Chat_Moderation_FAQ.txt,Call of Duty HQ,Gaming,['identity_based'],False,False,False,False,True,False,False,-0.9926,2,12.6449995,8.890167
+COD_CODE_OF_CONDUCT.txt,Call of Duty HQ,Gaming,"['physical', 'identity_based']",False,False,True,False,True,False,False,0.9869,2,12.552932,8.967612
+COD_security_and_enforcement_policy.txt,Call of Duty HQ,Gaming,['economic'],False,False,False,False,False,False,True,-0.9997,1,12.452308,9.288776
+COD_anti-toxicity_report.txt,Call of Duty HQ,Gaming,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.668,2,12.499501,8.919313
+COD_software_license_and_service_agreement.txt,Call of Duty HQ,Gaming,"['economic', 'physical']",False,False,True,False,False,False,True,1.0,1,12.0947895,9.544128
+COD_Privacy_Policy.txt,Call of Duty HQ,Gaming,"['privacy', 'economic']",False,False,False,False,False,True,True,0.9999,1,12.242827,9.49063
+COD_Terms_of_Use.txt,Call of Duty HQ,Gaming,"['economic', 'reputational', 'physical']",False,True,True,False,False,False,True,1.0,1,11.9182825,9.566005
+EA_How_EA_handles_reports_of_harassment_and_illegal_content.txt,EA Sports FC 24,Gaming,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9979,2,12.390748,9.03314
+EA_Content_Moderation_and_Enforcement.txt,EA Sports FC 24,Gaming,['sexual'],False,False,False,True,False,False,False,0.9958,1,12.291135,9.355502
+EA_User_agreement.txt,EA Sports FC 24,Gaming,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9999,1,12.072331,9.518029
+EA_positive_play_community_guidelines.txt,EA Sports FC 24,Gaming,"['sexual', 'privacy', 'economic', 'physical']",False,False,True,True,False,True,True,0.845,1,12.219447,9.21491
+Minecraft_banned_accounts.txt,Minecraft,Gaming,"['sexual', 'identity_based']",False,False,False,True,True,False,False,-0.9907,2,11.8973465,8.623088
+Minecraft_end_user_agreement.txt,Minecraft,Gaming,"['economic', 'physical']",False,False,True,False,False,False,True,0.9999,1,11.910963,8.989352
+Minecraft_community_guidelines.txt,Minecraft,Gaming,"['sexual', 'economic', 'identity_based']",False,False,False,True,True,False,True,0.5792,3,12.145388,8.694795
+Minecraft_Guidelines_for_Reporting_Inappropriate_Player_Behavior.txt,Minecraft,Gaming,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.995,2,12.010935,8.487747
+Minecraft_terms_of_service.txt,Minecraft,Gaming,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,1.0,1,11.388139,9.53956
+Minecraft_realms_safety.txt,Minecraft,Gaming,['identity_based'],False,False,False,False,True,False,False,0.9991,2,12.201851,8.478183
+Minecraft_usage_guidelines.txt,Minecraft,Gaming,['physical'],False,False,True,False,False,False,False,0.9999,1,12.017924,8.888355
+Minecraft_commitment_to_player_safety.txt,Minecraft,Gaming,['identity_based'],False,False,False,False,True,False,False,0.9981,1,12.135441,8.440476
+Minecraft_Xbox_community_standards.txt,Minecraft,Gaming,"['privacy', 'physical', 'identity_based', 'sexual', 'economic']",False,False,True,True,True,True,True,0.9999,1,12.247222,9.051956
+Fortnite_End_User_License_Agreement.txt,Fortnite,Gaming,['economic'],False,False,False,False,False,False,True,1.0,1,12.13553,9.910215
+Fortnite_Content_Guidelines.txt,Fortnite,Gaming,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,0.8815,3,7.915596,9.97922
+Fortnite_Unreal_Editor_for_Fortnite_Supplemental_Terms_to_the_EULA.txt,Fortnite,Gaming,['physical'],False,False,True,False,False,False,False,0.9999,1,12.117187,9.987031
+Fortnite_privacy_policy.txt,Fortnite,Gaming,"['privacy', 'economic']",False,False,False,False,False,True,True,0.9999,1,12.187598,9.866656
+Fortnite_community_guidelines.txt,Fortnite,Gaming,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.3706,1,12.230902,9.776404
+Fortnite_Fan_Content_Policy.txt,Fortnite,Gaming,['sexual'],False,False,False,True,False,False,False,0.9992,1,12.327816,9.7123
+Fortnite_Creator_Rules.txt,Fortnite,Gaming,"['sexual', 'economic', 'psychological', 'physical']",True,False,True,True,False,False,True,0.9999,1,12.070743,10.060783
+Discord_Warning_System.txt,Discord,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9998,2,12.625673,7.2004704
+Discord_spam_and_hacking.txt,Discord,SocialMedia,['economic'],False,False,False,False,False,False,True,0.9981,4,12.651582,7.054809
+Discord_Culture_of_Safety.txt,Discord,SocialMedia,['economic'],False,False,False,False,False,False,True,0.998,4,12.141959,7.381995
+Discord_Off-Platform_Behaviors.txt,Discord,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9987,1,12.612248,7.1658106
+Discord_Trust_and_Safety_Investigations.txt,Discord,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.8273,2,12.748198,6.924303
+Discord_Law_Enforcement.txt,Discord,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9963,1,12.635108,7.1700516
+Discord_reporting_abusive_behaviour.txt,Discord,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9342,2,12.604801,6.971655
+Discord_privacy_policy.txt,Discord,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,0.9999,1,12.566747,7.245765
+Discord_Community_Guidelines.txt,Discord,SocialMedia,"['privacy', 'physical', 'identity_based', 'sexual', 'economic']",False,False,True,True,True,True,True,-0.9998,4,12.4541025,7.2703886
+Discord_Suicide_and_Self-harm.txt,Discord,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9677,3,6.1704164,11.271985
+Discord_How_to_Report_Abusive_Behavior .txt,Discord,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9342,2,12.612064,6.9757814
+Discord_Sexual_Content.txt,Discord,SocialMedia,['sexual'],False,False,False,True,False,False,False,0.9663,3,7.7978177,9.515669
+Discord_Bringing_Policies_to_Life.txt,Discord,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9962,2,12.31201,7.4639287
+Discord_Violence _and_Graphic_Content.txt,Discord,SocialMedia,"['sexual', 'psychological', 'physical']",True,False,True,True,False,False,False,-0.9989,3,7.654916,10.926359
+Discord_Doxxing.txt,Discord,SocialMedia,"['privacy', 'physical']",False,False,True,False,False,True,False,-0.9539,4,12.671186,7.099862
+Discord_Hateful_Conduct.txt,Discord,SocialMedia,"['sexual', 'psychological', 'physical', 'identity_based']",True,False,True,True,True,False,False,-0.9989,3,8.865022,11.935386
+Discord_Mental_Health.txt,Discord,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9416,0,5.3004055,11.020056
+Discord_Bullying_and_harassment.txt,Discord,SocialMedia,"['sexual', 'psychological', 'physical']",True,False,True,True,False,False,False,-0.9993,2,8.329277,8.5064
+Discord_how_we_investigate.txt,Discord,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.8273,2,12.717234,7.0371637
+Discord_Non-Consensual_Adult_Intimate.txt,Discord,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9295,3,7.746518,9.468431
+Discord_Defining_and_Addressing_Online_Trolling.txt,Discord,SocialMedia,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9996,2,12.297542,7.3856077
+Discord_Violent_Extremism.txt,Discord,SocialMedia,"['privacy', 'physical']",False,False,True,False,False,True,False,-0.9989,2,8.403412,11.080672
+Discord_Teen_and_Child_Safety.txt,Discord,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9833,3,7.935171,9.6273985
+Discord_Ban_Evasion_and_Advanced_Harassment.txt,Discord,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9984,2,12.302774,7.438776
+Pinterest_Report_hate_speech.txt,Pinterest,SocialMedia,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9735,3,9.188042,11.723848
+Pinterest_transparency_report_2023.txt,Pinterest,SocialMedia,"['sexual', 'privacy', 'physical']",False,False,True,True,False,True,False,-0.9999,3,9.67144,10.458032
+Pinterest_Law_enforcement_guidelines.txt,Pinterest,SocialMedia,"['privacy', 'physical']",False,False,True,False,False,True,False,0.9953,1,9.751738,10.931109
+Pinterest_Teen_safety_options.txt,Pinterest,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9981,1,9.768292,10.989025
+Pinterest_Privacy_Policy.txt,Pinterest,SocialMedia,"['privacy', 'economic']",False,False,False,False,False,True,True,0.9999,1,10.595846,10.333558
+Pinterest_Resources_for_parents_and_caregivers_of_teens.txt,Pinterest,SocialMedia,['psychological'],True,False,False,False,False,False,False,0.9951,1,9.828444,11.066868
+"Pinterest_Suicide,_self-harm_and_domestic_violence_prevention.txt",Pinterest,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.992,0,5.602873,11.283425
+Pinterest_Community_Guidelines.txt,Pinterest,SocialMedia,"['privacy', 'physical', 'sexual', 'psychological', 'reputational']",True,True,True,True,False,True,False,-0.9995,3,9.531266,10.880011
+Pinterest_Emotional_health_resources.txt,Pinterest,SocialMedia,['psychological'],True,False,False,False,False,False,False,0.8225,0,6.1658955,10.856555
+Quora_Partner_Program.txt,Quora,SocialMedia,['physical'],False,False,True,False,False,False,False,0.4903,1,11.222637,9.328847
+Quora_Spaces_Policies.txt,Quora,SocialMedia,"['sexual', 'privacy', 'physical', 'identity_based']",False,False,True,True,True,True,False,-0.9982,3,8.989736,11.982286
+Quora_Platform_Policies.txt,Quora,SocialMedia,"['sexual', 'privacy', 'physical', 'identity_based']",False,False,True,True,True,True,False,-0.9942,3,10.701909,9.096783
+Quora_Privacy_Policy.txt,Quora,SocialMedia,"['privacy', 'economic']",False,False,False,False,False,True,True,0.9989,1,10.84492,9.326776
+Quora_Terms_of_Service.txt,Quora,SocialMedia,['economic'],False,False,False,False,False,False,True,1.0,1,11.109068,9.3176365
+Quora_law_enforcement.txt,Quora,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9829,1,10.771049,9.228672
+Meta_bullying_tips.txt,Meta,SocialMedia,['privacy'],False,False,False,False,False,True,False,0.6588,2,7.7519293,7.6096296
+Meta_Dangerous_organisations_and_individuals.txt,Meta,SocialMedia,"['physical', 'identity_based']",False,False,True,False,True,False,False,-1.0,3,8.706906,10.870412
+Meta_Violence_and_incitement.txt,Meta,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9994,3,9.022839,10.759487
+Meta_Privacy_violations.txt,Meta,SocialMedia,"['privacy', 'identity_based']",False,False,False,False,True,True,False,0.9968,3,9.724165,10.003823
+Meta_Self-Harm_and_Suicide_Publisher_and_Creator_Guidelines.txt,Meta,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9734,3,6.334837,11.416237
+Meta_account_integrity.txt,Meta,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9901,3,9.728047,9.698628
+Meta_restricting_accounts.txt,Meta,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9986,3,9.437314,9.583269
+Meta_adult_sexual_exploitation.txt,Meta,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,0.7619,3,8.280638,9.692183
+Meta_sextortion_tips.txt,Meta,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9984,2,8.082966,8.16119
+Meta_Coordinating_harm_and_promoting_crime _ Transparency Centre.txt,Meta,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,-0.999,3,9.293681,10.214372
+Meta_counting_strikes.txt,Meta,SocialMedia,['economic'],False,False,False,False,False,False,True,-0.9866,3,9.348222,9.593983
+Meta_suicide_prevention.txt,Meta,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9561,0,5.555003,11.141581
+Meta_Bullying_and_Harassment.txt,Meta,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9998,3,8.381878,9.741737
+Meta_Hate_speech_advertising.txt,Meta,SocialMedia,['identity_based'],False,False,False,False,True,False,False,-0.9233,3,9.014865,11.412517
+Meta_misinformation.txt,Meta,SocialMedia,"['economic', 'physical', 'identity_based']",False,False,True,False,True,False,True,-0.9993,3,9.158005,10.414403
+Meta_hate_speech_publisher_and_creator_guidelines.txt,Meta,SocialMedia,['identity_based'],False,False,False,False,True,False,False,0.9348,2,9.004824,11.712877
+Meta_Privacy_Policy_ How_Meta_collects_and_uses_user_data.txt,Meta,SocialMedia,"['privacy', 'economic']",False,False,False,False,False,True,True,1.0,1,10.760787,10.078724
+Meta_self-harm_and_suicide_creator_guidelines.txt,Meta,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9734,3,6.314697,11.398516
+Meta_community_standards_enforcement_report.txt,Meta,SocialMedia,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9816,3,9.538747,9.398144
+Meta_content_violating_community_standards.txt,Meta,SocialMedia,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,-0.9973,3,9.4786,9.944103
+Meta_Suicide_and_self-injury.txt,Meta,SocialMedia,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.999,3,6.341069,11.413208
+Meta_Hate_speech.txt,Meta,SocialMedia,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9995,3,8.935539,11.601996
+Meta_teens_bullying.txt,Meta,SocialMedia,['reputational'],False,True,False,False,False,False,False,-0.9636,2,7.786343,7.880248
+Meta_teacher_bullying_4.txt,Meta,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9947,2,7.766904,7.8353353
+Meta_teacher_bullying_1.txt,Meta,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9892,2,7.8986793,7.9117856
+Meta_teacher_bullying_2.txt,Meta,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.975,2,7.7925577,7.861638
+Meta_teacher_bullying_3.txt,Meta,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9141,2,7.790257,7.860706
+Meta_cybersecurity.txt,Meta,SocialMedia,['economic'],False,False,False,False,False,False,True,0.9679,3,9.667035,9.751062
+YouTube_Hate speech policy.txt,YouTube,SocialMedia,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9966,3,9.426579,12.698891
+YouTube_harmful_or_dangerous_content.txt,YouTube,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9998,3,9.80207,13.086731
+YouTube_Educational_Documentary_Scientific_and_Artistic_content.txt,YouTube,SocialMedia,"['sexual', 'privacy', 'physical', 'identity_based']",False,False,True,True,True,True,False,-0.9997,3,9.785356,13.290515
+YouTube_Harassment _&_cyberbullying_policies.txt,YouTube,SocialMedia,"['privacy', 'physical', 'identity_based', 'reputational', 'economic']",False,True,True,False,True,True,True,-0.9992,3,9.61135,13.037627
+YouTube_child_safety.txt,YouTube,SocialMedia,"['sexual', 'psychological', 'physical']",True,False,True,True,False,False,False,-0.9993,3,9.967341,13.007246
+YouTube_thumbnail_policy.txt,YouTube,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9862,3,9.75962,13.229076
+YouTube_community_guidelines_2.txt,YouTube,SocialMedia,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,-0.9572,3,9.605,13.270321
+YouTube_Nudity_&_Sexual_Content.txt,YouTube,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9928,3,9.930049,13.020735
+YouTube_children_and_teens.txt,YouTube,SocialMedia,['sexual'],False,False,False,True,False,False,False,0.9984,3,10.007376,12.885858
+YouTube_Privacy_Policy.txt,YouTube,SocialMedia,"['sexual', 'privacy', 'economic']",False,False,False,True,False,True,True,1.0,1,10.8884535,10.032134
+YouTube_manage_harmful_content.txt,YouTube,SocialMedia,['identity_based'],False,False,False,False,True,False,False,0.9924,3,9.709707,12.996395
+YouTube_Privacy _Guidelines.txt,YouTube,SocialMedia,"['privacy', 'physical']",False,False,True,False,False,True,False,-0.9947,3,9.552944,13.042989
+YouTube_creator_responsibility.txt,YouTube,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.8405,3,9.718907,13.3035345
+YouTube_external_links_policy.txt,YouTube,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9981,3,9.699795,13.165013
+YouTube_Violent_extremist_policy.txt,YouTube,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9996,3,9.761607,13.109579
+YouTube_suicide_and_self-harm_guide.txt,YouTube,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9926,0,5.6554165,11.157663
+YouTube_Terms_of_Service.txt,YouTube,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,0.9998,1,11.496606,9.363179
+YouTube_hate_and_harassment.txt,YouTube,SocialMedia,"['privacy', 'physical', 'identity_based']",False,False,True,False,True,True,False,-0.9991,3,9.226688,12.353899
+YouTube_community_guidelines.txt,YouTube,SocialMedia,"['sexual', 'identity_based']",False,False,False,True,True,False,False,-0.9904,3,9.599865,13.113707
+YouTube_Violent_or_graphic_content.txt,YouTube,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9998,3,9.642219,13.074361
+YouTube_age_restricted_content.txt,YouTube,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9767,3,10.071267,12.987224
+YouTube_reporting_tools.txt,YouTube,SocialMedia,"['privacy', 'physical', 'identity_based']",False,False,True,False,True,True,False,-0.9815,3,9.552137,12.877084
+"YouTube_Suicide,_self-harm,_and_eating_disorders_policy.txt",YouTube,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9996,3,6.241814,11.502266
+YouTube_channel_or_account_terminations.txt,YouTube,SocialMedia,['identity_based'],False,False,False,False,True,False,False,-0.7519,3,9.803741,13.374214
+YouTube_community_guidelines_strikes.txt,YouTube,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9918,3,9.481218,13.149741
+Facebook_Publisher_content_and_Facebook_Community_Standards  .txt,Facebook,SocialMedia,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9991,3,9.283049,9.775985
+Facebook_Suicide_and_self-injury_resources.txt,Facebook,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9972,0,5.4170456,11.241497
+Facebook_What_types_of_behaviour_does_Facebook_identify_as_abusive.txt,Facebook,SocialMedia,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9877,2,7.8429217,6.999383
+Facebook_report_abuse.txt,Facebook,SocialMedia,"['sexual', 'reputational', 'physical', 'identity_based']",False,True,True,True,True,False,False,-0.6402,2,7.6754136,6.746084
+Facebook_report_inappropriate_or_abusive_things.txt,Facebook,SocialMedia,"['sexual', 'reputational', 'physical', 'identity_based']",False,True,True,True,True,False,False,-0.6402,2,7.638936,6.762252
+Facebook_Help_and_support_for_suicidal_or_self-injurious_thoughts.txt,Facebook,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9701,0,5.4677715,11.2498665
+Facebook_reporting_abuse.txt,Facebook,SocialMedia,"['sexual', 'privacy']",False,False,False,True,False,True,False,0.8157,2,7.603313,6.7915
+Facebook_What_types_of_things_aren't_allowed.txt,Facebook,SocialMedia,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.7359,3,7.846175,6.9746532
+Facebook_Report_content_on_Facebook.txt,Facebook,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9996,2,7.740095,6.776233
+"Facebook_How_to_handle_bullying,_harassment_or_personal attack_on_Facebook.txt",Facebook,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.7975,2,7.6560974,7.1405325
+Facebook_Terms_of_Service.txt,Facebook,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9997,1,10.983141,9.6170845
+Facebook_report_a_message.txt,Facebook,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9848,2,7.9459944,6.904938
+Facebook_reporting_guide.txt,Facebook,SocialMedia,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9995,2,7.527642,6.8108644
+Facebook_abuse_resources.txt,Facebook,SocialMedia,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,0.9991,2,7.860807,7.1101694
+Facebook_community_guidelines.txt,Facebook,SocialMedia,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9656,3,9.200229,9.23083
+Reddit_Developer_Terms.txt,Reddit,SocialMedia,['privacy'],False,False,False,False,False,True,False,0.9997,1,11.446303,9.494437
+Reddit_Promoting_Hate_Based_on_Identity_or_Vulnerability.txt,Reddit,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9971,3,8.695091,11.904527
+Reddit_Public_Content_Policy.txt,Reddit,SocialMedia,"['sexual', 'privacy']",False,False,False,True,False,True,False,0.9981,3,10.385711,9.553664
+Reddit_Do_not_post_violent_content.txt,Reddit,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9952,3,7.5241494,11.014668
+Reddit_community_muting.txt,Reddit,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.894,2,9.666323,9.113671
+Reddit_transparency_report_2024.txt,Reddit,SocialMedia,"['sexual', 'privacy', 'physical']",False,False,True,True,False,True,False,-0.9999,3,9.758026,10.184419
+Reddit_Do_not_threaten_harass_bully.txt,Reddit,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9752,2,8.413032,8.319578
+Reddit_How_do_I_report_abuse_of_the_report_system.txt,Reddit,SocialMedia,['psychological'],True,False,False,False,False,False,False,-0.9904,2,9.046242,7.651601
+Reddit_Moderator_Code_of_Conduct.txt,Reddit,SocialMedia,['sexual'],False,False,False,True,False,False,False,0.9996,3,10.275519,9.594392
+Reddit_Privacy_Policy.txt,Reddit,SocialMedia,['economic'],False,False,False,False,False,False,True,0.9999,1,10.73824,9.759591
+Reddit_User_Agreement.txt,Reddit,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,0.9999,1,11.361785,9.597041
+Reddit_report_spam.txt,Reddit,SocialMedia,['psychological'],True,False,False,False,False,False,False,-0.9914,2,9.09141,7.807018
+Reddit_Guidelines_for_Law_Enforcement.txt,Reddit,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9574,3,10.445383,9.414055
+Reddit_Content_Policy.txt,Reddit,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,-0.9921,3,10.367253,9.4228945
+TikTok_accounts_and_features.txt,TikTok,SocialMedia,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9986,1,10.255432,10.758917
+TikTok_Integrity_and_Authenticity.txt,TikTok,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9977,3,8.693121,10.416819
+TikTok_content_violations_and_bans.txt,TikTok,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9995,3,9.9743595,10.742891
+TikTok_guardian's guide.txt,TikTok,SocialMedia,['psychological'],True,False,False,False,False,False,False,0.9996,3,10.265958,10.867618
+TikTok_wellbeing.txt,TikTok,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9995,4,8.437642,10.182255
+TikTok_Mental_and_Behavioral_Health.txt,TikTok,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9989,0,5.5300207,11.283412
+TikTok_Safety_and_civility.txt,TikTok,SocialMedia,"['privacy', 'physical', 'identity_based', 'sexual', 'psychological', 'economic']",True,False,True,True,True,True,True,-1.0,3,7.715876,10.982623
+TikTok_safety_guide.txt,TikTok,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,0.999,1,10.307489,10.838825
+TikTok_eating_disorders.txt,TikTok,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9998,0,5.8580513,11.337944
+TikTok_content_moderation.txt,TikTok,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9995,3,10.015936,10.562912
+TikTok_suicide_and_self-harm.txt,TikTok,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9954,0,5.3863945,11.074451
+TikTok_youth_safety_and_well-being.txt,TikTok,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9776,1,10.13805,10.952811
+TikTok_sexual_abuse_support.txt,TikTok,SocialMedia,"['sexual', 'psychological', 'physical']",True,False,True,True,False,False,False,-0.9977,3,8.575256,10.027612
+TikTok_community_guidelines_new_rules.txt,TikTok,SocialMedia,['identity_based'],False,False,False,False,True,False,False,0.999,3,9.899055,10.5365925
+TikTok_privacy_policy.txt,TikTok,SocialMedia,"['privacy', 'economic', 'physical']",False,False,True,False,False,True,True,0.9999,1,10.898641,10.359177
+TikTok_bullying_prevention.txt,TikTok,SocialMedia,"['sexual', 'psychological', 'physical']",True,False,True,True,False,False,False,-0.9984,2,8.020719,8.141548
+TikTok_Terms_of_Service.txt,TikTok,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9991,1,11.06255,10.441921
+TikTok_countering_hate_speech_&_behavior.txt,TikTok,SocialMedia,"['psychological', 'identity_based']",True,False,False,False,True,False,False,-0.9932,3,8.806125,11.941088
+Instagram_suicide_and_self-injury.txt,Instagram,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9951,0,5.454667,11.143307
+Instagram_parent's_guide.txt,Instagram,SocialMedia,"['sexual', 'psychological', 'physical', 'identity_based']",True,False,True,True,True,False,False,1.0,3,9.3211355,8.708639
+Instagram_reporting_guide.txt,Instagram,SocialMedia,"['physical', 'identity_based', 'sexual', 'reputational', 'economic']",False,True,True,True,True,False,True,-0.986,2,9.197096,8.09772
+Instagram_Recommendations_on_Instagram.txt,Instagram,SocialMedia,"['sexual', 'reputational', 'psychological', 'physical']",True,True,True,True,False,False,False,-0.9894,3,9.457603,9.199823
+Instagram_dealing_with_conflict.txt,Instagram,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9933,2,8.893156,8.205048
+Instagram_Terms_of_Use.txt,Instagram,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9993,1,9.8515005,9.245193
+Instagram_bullying_and_harassment_guide.txt,Instagram,SocialMedia,"['privacy', 'identity_based']",False,False,False,False,True,True,False,-0.9985,2,8.983803,8.282824
+Instagram_Abuse_and_Spam.txt,Instagram,SocialMedia,"['privacy', 'physical', 'identity_based', 'sexual', 'reputational', 'economic']",False,True,True,True,True,True,True,0.9919,2,9.055346,7.9409356
+Instagram_defamation.txt,Instagram,SocialMedia,['reputational'],False,True,False,False,False,False,False,-0.988,2,8.673058,8.118358
+Instagram_Community_Guidelines.txt,Instagram,SocialMedia,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9387,3,9.092862,9.395925
+Instagram_abuse_guide.txt,Instagram,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9963,2,8.99818,8.2279825
+Instagram_Community_Guidelines_FAQs.txt,Instagram,SocialMedia,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.8951,3,9.181551,9.067164
+Instagram_anti-harassment_features.txt,Instagram,SocialMedia,"['privacy', 'identity_based']",False,False,False,False,True,True,False,-0.9985,2,8.996112,8.289899
+Instagram_About_Eating_Disorders.txt,Instagram,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9977,0,5.8718305,11.474671
+Instagram_suicide_and_self-harm.txt,Instagram,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9938,0,5.4150853,11.022809
+Instagram_sensitive_content.txt,Instagram,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,0.8743,3,9.358977,8.783114
+Instagram_content_lowering.txt,Instagram,SocialMedia,"['sexual', 'reputational', 'physical', 'identity_based']",False,True,True,True,True,False,False,-0.9804,3,9.319285,9.253392
+Instagram_how_to_report.txt,Instagram,SocialMedia,"['sexual', 'economic', 'psychological', 'physical']",True,False,True,True,False,False,True,0.9608,2,9.0801,7.9592476
+Instagram_tools_protect_against_abuse.txt,Instagram,SocialMedia,['identity_based'],False,False,False,False,True,False,False,-0.9965,2,8.875706,8.298803
+Instagram_Self-Injury.txt,Instagram,SocialMedia,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9913,0,5.3778872,11.012564
+Instagram_eating_disorder_help.txt,Instagram,SocialMedia,['physical'],False,False,True,False,False,False,False,0.9937,0,5.8806596,11.372852
+Instagram_content_reccomendations.txt,Instagram,SocialMedia,"['sexual', 'reputational', 'psychological', 'physical']",True,True,True,True,False,False,False,-0.9734,3,9.452815,9.0969925
+Instagram_bullying_prevention.txt,Instagram,SocialMedia,"['privacy', 'physical', 'identity_based']",False,False,True,False,True,True,False,-0.9973,2,9.065389,8.305983
+X_private_information_policy_and_doxxing.txt,X,SocialMedia,"['privacy', 'physical', 'sexual', 'reputational', 'economic']",False,True,True,True,False,True,True,0.9987,0,-11.9488735,11.373758
+X_authenticity.txt,X,SocialMedia,"['privacy', 'economic']",False,False,False,False,False,True,True,-0.9976,0,-12.092923,11.2298155
+X_notices_and_meanings.txt,X,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.999,0,-11.925719,11.396946
+X_suicide_&_self-harm_policy.txt,X,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9966,0,-12.007855,11.314853
+X_abusive_profile_information.txt,X,SocialMedia,['psychological'],True,False,False,False,False,False,False,-0.9969,0,-11.858691,11.463982
+X_enforcement.txt,X,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,-0.9973,0,-12.021556,11.301217
+X_How_X_handles_abuse_and_harassment.txt,X,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9989,0,-12.036864,11.285844
+X_Perpetrators_of_violent_attacks_policy.txt,X,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9998,0,-12.021584,11.301132
+X_non-consensual_nudity_policy.txt,X,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.875,0,-11.953543,11.3691025
+X_Our_policy_on_violent_organizations.txt,X,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9995,0,-11.873351,11.449327
+X_violent_and_hateful_entities.txt,X,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9995,0,-11.961602,11.361127
+X_Terms_of_Service.txt,X,SocialMedia,['economic'],False,False,False,False,False,False,True,0.9999,1,11.411675,9.473523
+X_policy_on_hateful_conduct.txt,X,SocialMedia,"['economic', 'psychological', 'physical', 'identity_based']",True,False,True,False,True,False,True,-0.9992,0,-11.838901,11.483759
+X_enforcement_policy.txt,X,SocialMedia,['psychological'],True,False,False,False,False,False,False,-0.9706,0,-11.812234,11.510488
+X_What_to_do_about_self-harm_and_suicide_concerns_on_X.txt,X,SocialMedia,['psychological'],True,False,False,False,False,False,False,-0.9965,0,-11.922616,11.400136
+X_Privacy_Policy.txt,X,SocialMedia,"['privacy', 'economic']",False,False,False,False,False,True,True,0.9999,1,10.393966,10.056403
+X_How_to_handle_abuse_and_how_we_can_help.txt,X,SocialMedia,['physical'],False,False,True,False,False,False,False,-0.9875,0,-11.888918,11.433697
+X_legal_request_FAQs.txt,X,SocialMedia,"['reputational', 'physical']",False,True,True,False,False,False,False,0.9496,0,-12.041682,11.2811575
+X_Violent_Content.txt,X,SocialMedia,"['sexual', 'privacy', 'physical']",False,False,True,True,False,True,False,-0.9999,0,-11.912376,11.410414
+X_reporting_abuse.txt,X,SocialMedia,['psychological'],True,False,False,False,False,False,False,0.7165,0,-12.063034,11.259798
+X_transparency_report.txt,X,SocialMedia,"['sexual', 'economic', 'psychological', 'physical']",True,False,True,True,False,False,True,-0.9998,3,9.530383,10.21335
+X_blocking_links.txt,X,SocialMedia,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9906,0,-12.135588,11.187253
+LinkedIn_reporting_jobs.txt,LinkedIn,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,-0.998,2,9.982153,8.168014
+LinkedIn_account_restrictions.txt,LinkedIn,SocialMedia,"['sexual', 'economic']",False,False,False,True,False,False,True,-0.9977,3,10.301877,8.944324
+LinkedIn_User_Agreement.txt,LinkedIn,SocialMedia,"['economic', 'reputational', 'physical']",False,True,True,False,False,False,True,0.9996,1,11.19757,8.966842
+LinkedIn_Hateful_and_derogatory_content.txt,LinkedIn,SocialMedia,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9976,3,8.749194,11.825171
+LinkedIn_Automated_harm_detection.txt,LinkedIn,SocialMedia,"['sexual', 'economic']",False,False,False,True,False,False,True,-0.8931,2,9.979087,8.32379
+LinkedIn_how_we_enforce_our_professional_community_policies.txt,LinkedIn,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9941,3,10.38962,8.728924
+LinkedIn_Recognize_and_report.txt,LinkedIn,SocialMedia,"['economic', 'reputational']",False,True,False,False,False,False,True,-0.9977,2,10.055704,8.239398
+LinkedIn_Sexual_innuendos_and_unwanted_advances.txt,LinkedIn,SocialMedia,['sexual'],False,False,False,True,False,False,False,0.9774,3,7.843724,9.267374
+LinkedIn_community_guidelines.txt,LinkedIn,SocialMedia,"['sexual', 'economic', 'reputational', 'physical']",False,True,True,True,False,False,True,-0.9996,4,10.326158,8.448415
+LinkedIn_enforcement.txt,LinkedIn,SocialMedia,['sexual'],False,False,False,True,False,False,False,-0.9941,3,10.391461,8.680453
+LinkedIn_Harassment_and_abusive_content.txt,LinkedIn,SocialMedia,['privacy'],False,False,False,False,False,True,False,-0.998,2,9.731252,8.483895
+LinkedIn_Service_Terms.txt,LinkedIn,SocialMedia,['privacy'],False,False,False,False,False,True,False,1.0,1,11.017243,8.813234
+LinkedIn_User_Agreement_Summary.txt,LinkedIn,SocialMedia,"['economic', 'physical']",False,False,True,False,False,False,True,0.9926,1,11.904976,9.39958
+LinkedIn_Transparency_Community_Report.txt,LinkedIn,SocialMedia,['economic'],False,False,False,False,False,False,True,-0.994,3,9.744976,10.000065
+LinkedIn_Types_of_content_policy_violations.txt,LinkedIn,SocialMedia,"['sexual', 'privacy', 'physical']",False,False,True,True,False,True,False,-0.997,3,8.116901,9.996223
+Google_Messages_Terms_of_service.txt,Google Messages,InstantMessaging,"['economic', 'physical']",False,False,True,False,False,False,True,0.9995,1,11.425292,9.405622
+Google_Messages_your_account_is_disabled.txt,Google Messages,InstantMessaging,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.9994,1,11.022574,9.795574
+Google_Messages_privacy_policy.txt,Google Messages,InstantMessaging,"['sexual', 'privacy', 'economic']",False,False,False,True,False,True,True,1.0,1,10.871845,10.081401
+Facebook_Messenger_Report_inappropriate_or_abusive_things .txt,Facebook Messenger,InstantMessaging,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.0689,2,7.62645,6.7337685
+Facebook_Messenger_report_community_chats.txt,Facebook Messenger,InstantMessaging,['physical'],False,False,True,False,False,False,False,0.5719,2,7.2112293,6.861155
+Facebook_Messenger_Privacy_and_safety_on_Messenger.txt,Facebook Messenger,InstantMessaging,"['sexual', 'economic', 'reputational', 'physical']",False,True,True,True,False,False,True,0.9997,4,6.684948,7.0163755
+Facebook_Messenger_Report_something.txt,Facebook Messenger,InstantMessaging,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9978,2,7.48968,6.736244
+"Facebook_Messenger_blocking,_reporting,_and_deleting.txt",Facebook Messenger,InstantMessaging,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9988,2,7.204711,6.918397
+Facebook_Messenger_community_chats.txt,Facebook Messenger,InstantMessaging,['reputational'],False,True,False,False,False,False,False,0.7774,4,6.6354213,7.0080853
+Facebook_Messenger_suicide_and_self-harm.txt,Facebook Messenger,InstantMessaging,['physical'],False,False,True,False,False,False,False,-0.5799,0,5.3973565,11.200299
+Facebook_Messenger_Reporting_Conversations.txt,Facebook Messenger,InstantMessaging,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9838,2,7.2945657,6.854275
+Telegram_Ads.txt,Telegram,InstantMessaging,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,-0.9978,1,8.7906065,10.552994
+Telegram_User_guidance_for_the_EU_Digital_Services_Act.txt,Telegram,InstantMessaging,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.9062,3,8.237458,10.249498
+Snapchat_Terms_of_service.txt,Snapchat,InstantMessaging,"['economic', 'physical']",False,False,True,False,False,False,True,1.0,1,11.361243,9.611697
+Snapchat_How_do_I_stay_safe.txt,Snapchat,InstantMessaging,['psychological'],True,False,False,False,False,False,False,0.9992,4,6.742474,10.433943
+Snapchat_content_guidelines_for_recommendation_eligibility.txt,Snapchat,InstantMessaging,"['physical', 'identity_based', 'sexual', 'psychological', 'reputational']",True,True,True,True,True,False,False,-0.9998,3,8.117272,10.414777
+Snapchat_Privacy_Policy.txt,Snapchat,InstantMessaging,"['privacy', 'economic']",False,False,False,False,False,True,True,1.0,1,7.5825505,10.248822
+Snapchat_Harassment_&_Bullying.txt,Snapchat,InstantMessaging,"['sexual', 'psychological']",True,False,False,True,False,False,False,0.9256,3,7.603458,10.01755
+Snapchat_Harassment_&_Bullying_recommendation_eligibility.txt,Snapchat,InstantMessaging,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9975,3,8.054648,10.02685
+Snapchat_back_to_school.txt,Snapchat,InstantMessaging,['psychological'],True,False,False,False,False,False,False,0.9975,4,7.5033174,9.855871
+Snapchat_Sexual_Content.txt,Snapchat,InstantMessaging,"['sexual', 'psychological']",True,False,False,True,False,False,False,-0.9841,3,7.826265,9.590788
+"Snapchat_Moderation,_Enforcement,_and_Appeals.txt",Snapchat,InstantMessaging,"['economic', 'physical', 'identity_based']",False,False,True,False,True,False,True,-0.9739,3,7.9911175,10.482917
+Snapchat_adult_content_advertising.txt,Snapchat,InstantMessaging,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9689,3,7.926117,9.676719
+Snapchat_Transparency_Report_2023.txt,Snapchat,InstantMessaging,"['sexual', 'psychological', 'physical', 'identity_based']",True,False,True,True,True,False,False,-0.9983,3,9.421153,10.279093
+Snapchat_Community_Guidelines.txt,Snapchat,InstantMessaging,"['privacy', 'physical', 'identity_based', 'sexual', 'reputational', 'economic']",False,True,True,True,True,True,True,-0.9995,3,7.5880094,10.4133625
+Snapchat_Hateful_Content.txt,Snapchat,InstantMessaging,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9987,3,8.2092285,10.907055
+Snapchat_law_enforcement.txt,Snapchat,InstantMessaging,['physical'],False,False,True,False,False,False,False,0.9978,1,7.435502,10.320991
+Snapchat_hate_terrorism_and_extremism_advertising.txt,Snapchat,InstantMessaging,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9903,3,8.13466,10.830491
+Snapchat_transparency_report_glossary.txt,Snapchat,InstantMessaging,"['physical', 'identity_based', 'sexual', 'psychological', 'reputational']",True,True,True,True,True,False,False,-0.9995,3,8.251088,9.75307
+Snapchat_Violent_or_Disturbing.txt,Snapchat,InstantMessaging,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9927,3,7.9433546,10.726642
+Snapchat_How_We_Keep_Our_Snapchat_Community_Safe_&_Informed .txt,Snapchat,InstantMessaging,['psychological'],True,False,False,False,False,False,False,0.997,4,6.827538,10.414217
+"Snapchat_Threats,_Violence_&_Harm.txt",Snapchat,InstantMessaging,"['psychological', 'physical']",True,False,True,False,False,False,False,-0.9911,3,7.5954833,10.662284
+Snapchat_Suicide_Prevention_Awareness.txt,Snapchat,InstantMessaging,['psychological'],True,False,False,False,False,False,False,0.9965,4,5.862251,10.701405
+Snapchat_False_or_Deceptive_Information_eligibility_requirements.txt,Snapchat,InstantMessaging,['reputational'],False,True,False,False,False,False,False,-0.9727,3,8.290464,10.546651
+Snapchat_severe_harm.txt,Snapchat,InstantMessaging,['physical'],False,False,True,False,False,False,False,-0.9922,3,7.6804447,10.165848
+Snapchat_Safety_Resources.txt,Snapchat,InstantMessaging,['psychological'],True,False,False,False,False,False,False,0.9888,0,6.426468,10.5286
+Snapchat_Well-being_Features.txt,Snapchat,InstantMessaging,['psychological'],True,False,False,False,False,False,False,0.9845,4,6.480046,10.533503
+Snapchat_How_do_I_report_abuse_or_illegal_content_on_Snapchat.txt,Snapchat,InstantMessaging,['economic'],False,False,False,False,False,False,True,-0.9158,2,7.1084857,10.411929
+Snapchat_harmful_false_or_deceptive_information.txt,Snapchat,InstantMessaging,"['economic', 'reputational', 'physical']",False,True,True,False,False,False,True,-0.996,3,8.032238,10.370011
+WhatsApp_How_to_keep_your_groups_and_community_safe.txt,WhatsApp,InstantMessaging,['reputational'],False,True,False,False,False,False,False,0.9494,4,6.212577,7.1004767
+WhatsApp_Messaging_Guidelines.txt,WhatsApp,InstantMessaging,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.9964,4,6.0339613,7.269003
+WhatsApp_Supporting_your_well-being.txt,WhatsApp,InstantMessaging,['physical'],False,False,True,False,False,False,False,0.0307,4,6.2700715,7.066941
+WhatsApp_Information_for_Law_Enforcement.txt,WhatsApp,InstantMessaging,"['privacy', 'physical']",False,False,True,False,False,True,False,0.9304,4,6.062123,7.2628245
+WhatsApp_Establish_boundaries_and_a_positive_atmosphere.txt,WhatsApp,InstantMessaging,['reputational'],False,True,False,False,False,False,False,0.9985,2,12.202578,7.5416946
+WhatsApp_How_to_stay_safe.txt,WhatsApp,InstantMessaging,['physical'],False,False,True,False,False,False,False,-0.4523,4,6.1374965,7.1669655
+WhatsApp_traceability.txt,WhatsApp,InstantMessaging,"['privacy', 'physical']",False,False,True,False,False,True,False,0.9967,4,6.078037,7.231363
+WhatsApp_Privacy_Policy.txt,WhatsApp,InstantMessaging,"['sexual', 'economic']",False,False,False,True,False,False,True,1.0,1,6.026051,7.2899227
+WhatsApp_About_building_private_safe_and_secure_communities.txt,WhatsApp,InstantMessaging,"['sexual', 'physical']",False,False,True,True,False,False,False,0.2788,4,6.2202826,7.1034307
+WhatsApp_Help_your_teen_stay_safe .txt,WhatsApp,InstantMessaging,"['economic', 'physical']",False,False,True,False,False,False,True,0.9638,4,6.4080434,7.1028247
+WhatsApp_building_a_safe_community.txt,WhatsApp,InstantMessaging,['physical'],False,False,True,False,False,False,False,0.9924,4,6.1968756,7.099977
+Bumble_violent_content.txt,Bumble,Dating,['physical'],False,False,True,False,False,False,False,-0.9966,3,7.3901453,11.083057
+Bumble_suicide_and_self-harm.txt,Bumble,Dating,['physical'],False,False,True,False,False,False,False,-0.9939,3,6.427987,11.442415
+Bumble_community_guidelines.txt,Bumble,Dating,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.9993,3,8.524137,9.183288
+Bumble_Disinformation.txt,Bumble,Dating,['physical'],False,False,True,False,False,False,False,-0.9905,3,8.828091,10.280181
+Bumble_why_we_are_asking_about_ethnicity.txt,Bumble,Dating,['identity_based'],False,False,False,False,True,False,False,0.9919,4,8.551251,11.552449
+Bumble_When_Should_I_Use_Block_and_report.txt,Bumble,Dating,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9949,2,8.975945,7.579899
+Bumble_dangerous_organisations.txt,Bumble,Dating,['physical'],False,False,True,False,False,False,False,-0.9893,3,8.349283,11.190115
+Bumble_what_will_get_you_kicked_off.txt,Bumble,Dating,"['sexual', 'physical']",False,False,True,True,False,False,False,0.6394,4,8.637246,9.04618
+Bumble_scam.txt,Bumble,Dating,['economic'],False,False,False,False,False,False,True,0.9687,4,10.560217,6.94777
+Bumble_bullying_and_abuse.txt,Bumble,Dating,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.9794,2,8.262951,8.59641
+Bumble_politics_filter.txt,Bumble,Dating,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9776,3,8.537961,10.761424
+Bumble_identity_based_hate.txt,Bumble,Dating,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9939,3,8.672421,11.940072
+Bumble_nudity.txt,Bumble,Dating,['sexual'],False,False,False,True,False,False,False,0.9912,3,8.0400305,9.275395
+Bumble_Reporting_abusive_messages.txt,Bumble,Dating,['identity_based'],False,False,False,False,True,False,False,0.2698,2,9.065223,7.620339
+Bumble_Privacy_policy.txt,Bumble,Dating,"['privacy', 'economic']",False,False,False,False,False,True,True,1.0,1,11.113141,10.210993
+Bumble_misinformation.txt,Bumble,Dating,['physical'],False,False,True,False,False,False,False,-0.9977,3,8.801515,10.272373
+Bumble_digital_abuse.txt,Bumble,Dating,"['sexual', 'psychological', 'physical']",True,False,True,True,False,False,False,-0.9973,4,8.160963,8.63455
+Bumble_what_does_sexual_harassment_look_like.txt,Bumble,Dating,['sexual'],False,False,False,True,False,False,False,0.3415,4,8.226689,8.835418
+Bumble_identity_based_hate_article.txt,Bumble,Dating,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.993,3,8.625734,11.806591
+Bumble_sexual_harassment.txt,Bumble,Dating,['sexual'],False,False,False,True,False,False,False,0.6487,3,8.024384,8.976397
+Bumble_terms_and_conditions.txt,Bumble,Dating,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9999,1,11.410936,9.671411
+Bumble_physical_and_sexual_violence.txt,Bumble,Dating,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.996,3,7.853965,9.032384
+Grindr_safety_tips.txt,Grindr,Dating,['economic'],False,False,False,False,False,False,True,0.9981,4,11.041929,7.355713
+Grindr_Terms_of_Service.txt,Grindr,Dating,"['privacy', 'physical', 'identity_based', 'sexual', 'psychological', 'economic']",True,False,True,True,True,True,True,1.0,1,11.236689,8.224649
+Grindr_support_contacts.txt,Grindr,Dating,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.6179,4,9.723212,6.9976325
+Grindr_safety.txt,Grindr,Dating,['physical'],False,False,True,False,False,False,False,0.9981,4,11.066797,7.386397
+Grindr_consent.txt,Grindr,Dating,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9971,4,10.843135,7.468672
+Grindr_album_sharing.txt,Grindr,Dating,['physical'],False,False,True,False,False,False,False,0.9993,1,10.995278,7.733487
+Grindr_trans_support.txt,Grindr,Dating,"['psychological', 'physical', 'identity_based']",True,False,True,False,True,False,False,-0.9525,4,9.658645,7.0131083
+Grindr_sexual_harassment_trans.txt,Grindr,Dating,['sexual'],False,False,False,True,False,False,False,0.9496,4,9.765107,7.190002
+Grindr_Blocking_and_reporting.txt,Grindr,Dating,"['sexual', 'economic', 'identity_based']",False,False,False,True,True,False,True,-0.9907,2,10.892652,7.3159304
+Grindr_establishing_trust.txt,Grindr,Dating,['economic'],False,False,False,False,False,False,True,0.9994,4,10.8397,7.1973553
+Grindr_make_grindr_joyful.txt,Grindr,Dating,"['economic', 'identity_based']",False,False,False,False,True,False,True,0.9954,4,11.081812,7.475799
+Grindr_Holistic_safety_guide.txt,Grindr,Dating,"['privacy', 'psychological', 'physical', 'identity_based']",True,False,True,False,True,True,False,1.0,4,11.216365,7.426557
+Grindr_privacy_policy.txt,Grindr,Dating,"['privacy', 'economic']",False,False,False,False,False,True,True,0.9997,1,11.114937,7.7330604
+Grindr_scam.txt,Grindr,Dating,"['sexual', 'economic']",False,False,False,True,False,False,True,0.9909,4,10.615639,7.2500024
+Grindr_Community_Guidelines.txt,Grindr,Dating,"['physical', 'identity_based', 'sexual', 'psychological', 'economic']",True,False,True,True,True,False,True,0.9994,4,11.133002,7.6378417
+Grindr_How_Grindr_moderates.txt,Grindr,Dating,['physical'],False,False,True,False,False,False,False,0.9859,3,11.049578,7.5374236
+Badoo_Privacy_Policy.txt,Badoo,Dating,"['privacy', 'economic']",False,False,False,False,False,True,True,1.0,1,10.988058,10.168103
+Badoo_Screenshot_Block.txt,Badoo,Dating,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9969,4,7.6389213,10.198054
+Badoo_misinformation.txt,Badoo,Dating,['physical'],False,False,True,False,False,False,False,-0.9975,3,8.831966,10.264156
+Badoo_adult_nudity_and_sexual_activity.txt,Badoo,Dating,['sexual'],False,False,False,True,False,False,False,0.9912,3,8.1216345,9.239257
+Badoo_violent_or_graphic_content.txt,Badoo,Dating,['physical'],False,False,True,False,False,False,False,-0.9966,3,7.4089575,11.062355
+Badoo_physical_and_sexual_violence.txt,Badoo,Dating,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.9953,3,7.7594604,8.969436
+Badoo_Rude_Message_Detector.txt,Badoo,Dating,"['psychological', 'physical', 'identity_based']",True,False,True,False,True,False,False,-0.9904,2,8.733991,7.3414464
+Badoo_Block_and_Report.txt,Badoo,Dating,"['sexual', 'physical', 'identity_based']",False,False,True,True,True,False,False,-0.9975,2,8.749765,7.3780837
+Badoo_Community_Guidelines.txt,Badoo,Dating,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.999,3,8.480056,9.285038
+Badoo_explicit_photo.txt,Badoo,Dating,['sexual'],False,False,False,True,False,False,False,0.422,3,7.868521,9.457355
+Badoo_Terms_and_conditions_of_use.txt,Badoo,Dating,"['economic', 'physical', 'identity_based']",False,False,True,False,True,False,True,0.9996,3,8.440459,9.204598
+Badoo_sexual_harassment.txt,Badoo,Dating,['sexual'],False,False,False,True,False,False,False,-0.9371,3,8.043342,9.121288
+Badoo_suicide_and_self-injury.txt,Badoo,Dating,['physical'],False,False,True,False,False,False,False,-0.9931,3,6.4926815,11.483357
+Badoo_body_shaming.txt,Badoo,Dating,"['psychological', 'physical']",True,False,True,False,False,False,False,0.897,3,8.858944,8.936417
+Badoo_identity-based_hate_guide.txt,Badoo,Dating,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.987,3,8.623943,11.884272
+Badoo_identity-based_hate.txt,Badoo,Dating,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9953,3,8.560724,12.10573
+Badoo_bullying_and_abusive_content.txt,Badoo,Dating,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,-0.9766,2,8.172395,8.559213
+Badoo_abusive_message.txt,Badoo,Dating,['identity_based'],False,False,False,False,True,False,False,-0.9683,2,8.753137,7.4342456
+Hinge_Safe_Dating_Advice.txt,Hinge,Dating,"['sexual', 'physical']",False,False,True,True,False,False,False,0.951,4,10.562688,6.895404
+Hinge_No_Tolerance.txt,Hinge,Dating,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.9772,2,9.0037565,12.050628
+Hinge_terms_of_use.txt,Hinge,Dating,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9989,1,11.708272,9.31662
+Hinge_Supporting_Gender_Diversity.txt,Hinge,Dating,['identity_based'],False,False,False,False,True,False,False,-0.6056,2,9.877886,7.3199787
+Hinge_Stop_Asian_Hate.txt,Hinge,Dating,"['physical', 'identity_based']",False,False,True,False,True,False,False,-0.6964,2,8.689164,12.004849
+Hinge_What_We_Believe.txt,Hinge,Dating,['identity_based'],False,False,False,False,True,False,False,0.994,2,10.167759,7.595416
+Hinge_sharing_across_Match.txt,Hinge,Dating,['economic'],False,False,False,False,False,False,True,0.3535,4,11.870559,7.395307
+Hinge_self-harm.txt,Hinge,Dating,['physical'],False,False,True,False,False,False,False,-0.8807,0,5.2282605,10.91547
+Hinge_Privacy_Policy.txt,Hinge,Dating,['economic'],False,False,False,False,False,False,True,0.9998,1,10.657458,10.327793
+Hinge_Consequences_for_False_Reporting.txt,Hinge,Dating,['physical'],False,False,True,False,False,False,False,0.8084,2,9.434986,7.6459312
+Hinge_Member_Principles.txt,Hinge,Dating,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9996,4,11.85144,7.4561706
+Tinder_Privacy_Policy.txt,Tinder,Dating,['economic'],False,False,False,False,False,False,True,1.0,1,10.56913,10.373811
+Tinder_Safety.txt,Tinder,Dating,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.9992,4,11.882462,7.2972174
+Tinder_safety_and_policy_center.txt,Tinder,Dating,"['sexual', 'economic', 'physical']",False,False,True,True,False,False,True,0.9694,4,11.893873,7.2678595
+Tinder_How_To_Deal.txt,Tinder,Dating,['sexual'],False,False,False,True,False,False,False,-0.5939,4,10.125818,6.836659
+Tinder_Community_Guidelines.txt,Tinder,Dating,"['sexual', 'economic', 'physical', 'identity_based']",False,False,True,True,True,False,True,0.4074,4,10.287323,6.749415
+Tinder_Safety_tips.txt,Tinder,Dating,['physical'],False,False,True,False,False,False,False,0.9969,4,10.36787,6.739876
+Tinder_safety_resources.txt,Tinder,Dating,"['sexual', 'physical']",False,False,True,True,False,False,False,-0.5175,4,9.885339,6.807697
+Tinder_dating_safety_tips.txt,Tinder,Dating,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9887,4,10.387189,6.8139606
+Tinder_Terms_of_Use.txt,Tinder,Dating,"['physical', 'identity_based', 'sexual', 'psychological', 'economic']",True,False,True,True,True,False,True,1.0,1,10.205412,6.9007077
+Tinder_suicide.txt,Tinder,Dating,['physical'],False,False,True,False,False,False,False,-0.9349,4,9.872535,6.820809
+Tinder_What_to_Report.txt,Tinder,Dating,['sexual'],False,False,False,True,False,False,False,0.9615,4,10.041385,6.848971
+Tinder_Enforcing_our_policies.txt,Tinder,Dating,['physical'],False,False,True,False,False,False,False,-0.5994,4,10.145195,6.9934945
+Tinder_consent_101.txt,Tinder,Dating,"['psychological', 'physical']",True,False,True,False,False,False,False,0.9972,4,7.8312197,8.908951
+Tinder_Reporting_in-person_physical_harm.txt,Tinder,Dating,"['sexual', 'physical']",False,False,True,True,False,False,False,0.9465,4,9.948439,6.7871857
