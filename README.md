@@ -45,25 +45,23 @@ This repository contains the complete code used for my MEng Computer Science dis
 ## Execution Order
 
 To reproduce the full pipeline from raw documents to final analysis outputs, run the scripts in the following order:
-
-```text
-1.  extract_text.py  
-2.  preprocess_texts.py  
-3.  process_missing_files.py  
-4.  RQ1unsupervised_topic_modelling.py  
-5.  RQ1unsupervised_topic_LLM.py  
-6.  RQ1unsupervised_bertopic_visual.py  
-7.  RQ1guided_topic_modelling.py  
-8.  RQ1guided_topic_LLM.py  
-9.  RQ1guided_bertopic_visual.py  
-10. RQ1LLM_tagged.py  
-11. RQ2harm_typing.py  
-12. RQ2harm_cluster_visual.py  
-13. RQ2harm_stats_analysis.py  
-14. RQ2sentiment_scoring.py  
-15. RQ2platform_type_comparison.py  
-16. RQ2step4_harm_analysis.py  
-17. RQ2clusteringBERT.py  
+1.  `extract_text.py`  
+2.  `preprocess_texts.py`  
+3.  `process_missing_files.py`  
+4.  `RQ1unsupervised_topic_modelling.py`  
+5.  `RQ1unsupervised_topic_LLM.py`  
+6.  `RQ1unsupervised_bertopic_visual.py`  
+7.  `RQ1guided_topic_modelling.py`  
+8.  `RQ1guided_topic_LLM.py`  
+9.  `RQ1guided_bertopic_visual.py`  
+10. `RQ1LLM_tagged.py`  
+11. `RQ2harm_typing.py`  
+12. `RQ2harm_cluster_visual.py`  
+13. `RQ2harm_stats_analysis.py`  
+14. `RQ2sentiment_scoring.py`  
+15. `RQ2platform_type_comparison.py`  
+16. `RQ2step4_harm_analysis.py`  
+17. `RQ2clusteringBERT.py`
 
 ## Notes
 - All code is written in Python and relies on standard NLP/data science libraries including BERTopic, HuggingFace Transformers, pandas, and scikit-learn.
